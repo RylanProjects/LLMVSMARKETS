@@ -89,3 +89,170 @@ PROBABILITY: 0.34"
 KXCONCACAFNL1HBTTS-26NOV17MEXJAM-BTTS,groq,openai/gpt-oss-120b,v1,2026-11-17T05:08:53Z,0.1400,"Mexico are a strong attacking side that typically open the scoring in about 45 % of their matches, while Jamaica score in the first half roughly 30 % of the time. Assuming the events are roughly independent, the chance that both teams find the net before halftime is about 0.45 × 0.30 ≈ 0.14. A slight adjustment for the competitive nature of a Nations League tie (which can make both sides more cautious) brings the estimate to roughly fourteen percent.  
 
 PROBABILITY: 0.14"
+KXNFLDSTTD-26NOV19INDHOU-Y,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:19:45Z,0.2500,"To estimate the probability of a D/ST (Defense or Special Teams) touchdown occurring in an NFL game between Indianapolis and Houston:
+
+1. **Base Rate:** Statistically, a D/ST touchdown occurs in roughly 20% to 25% of NFL games (about 0.25 to 0.3 per team-game, meaning roughly 0.5 per game total, though many games have zero). 
+2. **Game Context:** Divisional matchups (like Colts vs. Texans) tend to be tightly contested, but can occasionally feature high-variance plays such as pick-sixes or punt returns due to familiarity. However, a D/ST touchdown is still a relatively rare, high-variance event.
+3. **Historical Frequency:** Across a full NFL season, roughly 1 in 4 or 1 in 5 games features at least one D/ST touchdown. 
+
+Weighing the baseline rarity of defensive and special teams touchdowns against the typical distribution in modern NFL games, a reasonable estimate for this specific market to resolve YES is around 25%.
+
+PROBABILITY: 0.25"
+KXNCAAMBSPREAD-26NOV18CONNARIZ-ARIZ5,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:19:51Z,0.3800,"To estimate the probability that Arizona wins by over 4.5 points against UConn in men's college basketball (scheduled for November 2026), we must evaluate the relative strengths of the two programs heading into the 2026-27 season. 
+
+UConn and Arizona are both perennial college basketball powerhouses under Dan Hurley and Tommy Lloyd, respectively. While exact roster compositions for November 2026 are highly uncertain this far in advance (given the constant turnover of the transfer portal and NBA draft), games between top-tier programs played at neutral sites or during early-season tournaments typically project as close, highly competitive matchups. 
+
+Given the general parity between elite college basketball programs, a spread of 4.5 points is relatively substantial for a matchup of this caliber. While Arizona could certainly win by 5 or more, the probability of either team winning a game of this magnitude by 5+ points is close to a coin flip, and the game itself is far from guaranteed to favor Arizona by that margin. Historically, top-tier matchups have a high frequency of close finishes within a single possession. Therefore, a reasonable estimate for Arizona winning by more than 4.5 points is below 50%.
+
+PROBABILITY: 0.38"
+KXNFLGAME-26NOV26CHIDET-CHI,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:19:57Z,0.3800,"To determine the probability that Chicago wins the Chicago vs Detroit Pro Football game scheduled for November 26, 2026 (typically Thanksgiving Day), we look at the standard matchup between the Chicago Bears and the Detroit Lions. 
+
+As of the 2026 NFL season, the Detroit Lions have generally been favored in matchups against the Chicago Bears due to their stronger recent roster construction and competitive standing, though divisional games are always competitive. Factoring in typical NFL point spreads for divisional games where Detroit is at home (or even neutral/away), Detroit is reasonably favored, implying an implied win probability for Chicago that is below a coin flip, roughly in the 35% to 45% range. Let us calibrate this at approximately 38%.
+
+PROBABILITY: 0.38"
+KXNFLTD-26NOV22TENDAL-DALDALDST-1,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:03Z,0.1800,"To estimate the probability that the Dallas Cowboys D/ST scores 1 or more touchdowns in their game against the Tennessee Titans on November 22, 2026, we consider historical averages for NFL defenses. 
+
+On average, an NFL defense/special teams unit scores a touchdown in roughly 15% to 20% of games (through pick-sixes, fumble returns, punt returns, or kickoff returns). The Cowboys possess a historically dynamic defensive unit with players capable of turning turnovers into defensive scores, which might push their individual probability slightly above the league average. However, defensive touchdowns remain relatively rare, high-variance events heavily dependent on game script, opposing quarterback mistakes, and special teams luck. 
+
+Weighing the baseline NFL defensive touchdown rate against the specific matchup and team capabilities, a fair estimate for a single game is around 18%.
+
+PROBABILITY: 0.18"
+KXNFLGAME-26NOV29NYGIND-NYG,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:15Z,0.4500,"To estimate the probability that the New York G (New York Giants) win against Indianapolis in their scheduled November 29, 2026 game, we look at typical NFL matchup dynamics. As of late 2026, the Giants are playing roughly as a standard NFL team, with matchup odds against a typical Indianapolis team usually hovering around a slight underdog to a slight favorite depending on the season's standings. Without an explicit, heavily lopsided disparity between the two franchises for the 2026 season, standard NFL game probabilities for a relatively even matchup typically give the home or visiting team roughly a 40% to 50% chance of winning. Factoring in standard variance and slight priors, a fair estimate for a generic NFL game between these teams is around 45%.
+
+PROBABILITY: 0.45"
+KXHIGHTOKC-26NOV18-T60,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:22Z,0.5500,"To estimate the probability that the maximum temperature in Oklahoma City (CLIOKC) on November 18, 2026, will be below 60°F, we consider historical climate data for mid-November in Oklahoma City. 
+
+Mid-November in Oklahoma City typically brings cooler autumn weather. Historical daily high temperatures for mid-November average in the upper 50s to around 60°F (typically around 58°F to 62°F). Because 60°F sits very close to the average maximum temperature for this time of year, there is a substantial climatological probability that a given mid-November day will experience a high temperature below 60°F (roughly a 50-60% chance, depending on cold fronts). Without specific long-range deterministic forecasts available for this exact future date, climatology serves as our primary guide, leaning slightly toward the cooler side of the threshold.
+
+PROBABILITY: 0.55"
+KXLOWTSDF-26NOV18-T37,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:34Z,0.4500,"To estimate the probability that the minimum temperature at Louisville (CLISDF) on November 18, 2026, will be greater than 37°F, we consider historical climate normals for Louisville in mid-November. 
+
+In mid-November, Louisville's average daily minimum temperatures typically hover around the upper 30s to near 40°F (historical average lows are often around 38-40°F). Because a threshold of 37°F is very close to these climatological normals, the probability of the minimum temperature staying above this mark is roughly a 50/50 proposition, depending heavily on the specific cold fronts or weather patterns present on that day. Without a specific, reliable weather forecast available two years in advance (since forecasts are generally only skillful up to about 10-14 days), we must anchor our estimate close to climatology. Given typical November variability, a minimum above 37°F is reasonably likely, but standard winter cooling makes it a toss-up.
+
+PROBABILITY: 0.45"
+KXHIGHNY-26NOV18-B64.5,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:40Z,0.1000,"To estimate the probability that the maximum temperature in New York City (CLINYC) on November 18, 2026, will be 64-65°F according to The Weather Company:
+
+1. **Climatology for mid-November in NYC:** Normal high temperatures for mid-November in New York City are typically in the upper 50s (around 52-56°F). 
+2. **Temperature range:** A high of 64-65°F is unusually warm for mid-November—roughly 8 to 10 degrees above normal. While such mild spells do occur due to southerly airflow ahead of cold fronts, they are the exception rather than the norm.
+3. **Probability assignment:** Given that seasonal norms center a bit lower, and a narrow two-degree band (64-65°) must be hit exactly, the chance is relatively low compared to temperatures in the 50s. However, weather forecasts 24 hours out occasionally capture unseasonably warm ridges. Accounting for climatological frequency and the narrowness of the bracket, we can estimate this around 8-12%.
+
+PROBABILITY: 0.10"
+KXHIGHTLV-26NOV18-B61.5,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:47Z,0.1200,"To estimate the probability that the maximum temperature in Las Vegas (CLILAS) on November 18, 2026, will be between 61°F and 62°F according to The Weather Company:
+
+1. **Climatology for Las Vegas in mid-November:** The historical average high temperature in Las Vegas around mid-November is typically in the mid-to-high 60s (roughly 64°F to 67°F). 
+2. **Temperature range specificity:** A two-degree bucket (61-62°F) is quite narrow. Even if a mid-November day trends slightly cooler than average, the probability of hitting this exact two-degree range is subject to standard meteorological variance.
+3. **Forecasting horizon:** We are currently looking ahead to a date roughly two years in the future (November 2026), meaning we have no specific weather model data for that exact day. Therefore, the estimate must rely primarily on historical climatology and the likelihood of falling into a specific narrow bin within the temperature distribution. 
+
+Given a normal November distribution for Las Vegas highs, temperatures in the low 60s are certainly plausible, but a specific two-degree window usually carries a baseline probability of around 10% to 15% under climatological priors, assuming typical weather patterns.
+
+PROBABILITY: 0.12"
+KXNFLOT-26NOV22NYJLAC-Y,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:20:56Z,0.0600,"To estimate the probability that a professional football game between the New York Jets and the Los Angeles Chargers (assuming ""New York J"" and ""Los Angeles C"" refer to these teams playing on Nov 22, 2026) goes to overtime, we can look at historical NFL statistics. 
+
+Historically, roughly 5% to 7% of regular-season NFL games go to overtime. This baseline rate can vary slightly depending on the expected closeness of the matchup (spread and over/under), but absent any extreme outlier conditions, the probability of any given NFL game going to overtime typically hovers around 6%.
+
+PROBABILITY: 0.06"
+KXDIMAYORGAME-26NOV20BUCAME-AME,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:03Z,0.3000,"To evaluate the probability of America Cali winning an away match against Atlético Bucaramanga in the Colombian Liga DIMAYOR, we need to consider the relative strengths of both teams, home-field advantage, and standard head-to-head dynamics in Colombian football. 
+
+Bucaramanga is generally a formidable opponent when playing at home (Estadio Alfonso López), where altitude and climate often provide a distinct advantage. However, America Cali is one of the historically strong and competitive clubs in the league, capable of winning away against any opponent on their day. In Colombian Liga DIMAYOR matches between evenly matched teams, home sides are usually slight favorites, but draws are quite common. Typically, an away win for a strong side like America Cali against a competitive team like Bucaramanga might be priced around 25% to 35%, depending on the exact current standings and form in late 2026. Factoring in the probability of a draw or a Bucaramanga win, an America Cali regulation victory is reasonably estimated around 30%.
+
+PROBABILITY: 0.30"
+KXHIGHAUS-26NOV18-T73,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:09Z,0.5000,"To determine the probability that the maximum temperature in Austin (CLIAUS) exceeds 73°F on November 18, 2026, we look at historical climate data for Austin in mid-November. 
+
+In Austin, Texas, November is a transitional autumn month. The historical average high temperature for mid-November is typically around 72°F to 74°F. While daily temperatures can vary based on incoming cold fronts or warm southerly flows, a threshold of 73°F represents a very typical mid-November afternoon high. Given normal meteorological variability, the chance of the maximum temperature reaching or exceeding 73°F on any given mid-November day is roughly 50%. 
+
+Balancing typical climatological averages for the date, we estimate the probability to be right around the median historical expectation.
+
+PROBABILITY: 0.50"
+KXNFLFIRSTTD-26NOV22PITPHI-PITPITDST,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:18Z,0.0300,"To estimate the probability that the Pittsburgh Steelers D/ST scores the first touchdown in a game against the Philadelphia Eagles, we consider typical base rates for defensive or special teams touchdowns in NFL games. 
+
+Generally, any specific team's D/ST scoring *any* touchdown in a single game is a relatively low-probability event, roughly around 10% to 15%. For that specific D/ST touchdown to be the *very first* touchdown of the entire game, the probability drops further, as most opening touchdowns are scored by the starting offensive units (passing or rushing). Furthermore, the matchup against the Philadelphia Eagles—who feature a strong offense—makes a defensive/special teams opening score even less likely. 
+
+Based on historical frequencies of opening touchdowns being scored by defenses or special teams, a reasonable estimate is around 3%.
+
+PROBABILITY: 0.03"
+KXNFLGAME-26NOV29LVCLE-LV,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:31Z,0.5200,"To estimate the probability of this NFL game outcome, we look at standard team power ratings and probabilities for an NFL matchup between Las Vegas and Cleveland around the 2026 season. Assuming standard home-field advantages and typical roster strengths for these two franchises, an NFL game between them is generally competitive, though one team may be favored depending on their 2026 performance. Without extreme anomalies, a baseline expectation for an NFL game between two moderately matched teams usually gives the favorite around a 55% to 65% chance, or roughly 50-50 if it's a toss-up. Lacking specific dominant indicators for the 2026 season standings at this moment, a balanced probability of around 50% (or slightly favoring the home team/better projected team, say 52%) is a reasonable prior.
+
+PROBABILITY: 0.52"
+KXNBAGAME-26NOV20ORLBKN-ORL,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:37Z,0.6000,"To estimate the probability of this market, we look at a typical matchup between the Orlando Magic and the Brooklyn Nets during the 2026-2027 NBA season. 
+
+While exact roster availability and current team form on November 20, 2026, are subject to change, the Orlando Magic generally enter this period with a stronger projected core and roster depth compared to the Brooklyn Nets, who are in a rebuilding phase. In a standard regular-season NBA game where Orlando is likely playing at home or is otherwise favored by power ratings, their implied win probability typically hovers around 55% to 65%. Factoring in standard home-court advantages and general team strength, a reasonable estimate for an Orlando win is approximately 60%.
+
+PROBABILITY: 0.60"
+KXNFLOT-26NOV22PITPHI-Y,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:45Z,0.0700,"To estimate the probability that an NFL game between Pittsburgh and Philadelphia goes to overtime, we can look at historical NFL statistics. 
+
+On average, roughly 6% to 8% of all NFL regular-season games go into overtime. This baseline frequency is remarkably consistent across different matchups, barring specific extreme weather or outlier teams, though neither team has an abnormal propensity for ties/overtimes that would drastically skew this specific game's odds. Therefore, the standard base rate for an NFL game needing an extra period applies.
+
+PROBABILITY: 0.07"
+KXNCAAMBGAME-26NOV20WORCBRY-BRY,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:21:56Z,0.9900,"To evaluate the probability of Bryant winning against Worcester State in men's college basketball on November 20, 2026:
+
+1. **Team Quality Disparity:** Bryant is a Division I program (competing in the America East or similar mid-major conference depending on realignment), whereas ""Worcester St."" (Worcester State University) is a Division III program. 
+2. **Matchup Dynamics:** Early-season matchups between Division I hosts and Division III opponents are typically scheduled as ""buy games"" or tune-up games. The talent, athletic depth, and resources of a Division I program overwhelmingly favor them in these matchups. Upsets of D-I teams by D-III teams are extraordinarily rare in college basketball.
+3. **Probability Assessment:** Bryant will be massive heavy favorites, likely with a win probability exceeding 99%. 
+
+PROBABILITY: 0.99"
+KXHIGHTBOS-26NOV18-B62.5,gemini,gemini-3.5-flash-lite,v1,2026-11-17T22:22:03Z,0.0800,"To estimate the probability that the maximum temperature in Boston (CLIBOS) on November 18, 2026, will be between 62°F and 63°F according to The Weather Company:
+
+1. **Climatology for mid-November in Boston:** Historically, normal daily high temperatures in Boston around mid-November are typically in the upper 50s (around 52°F to 55°F). 
+2. **Width of the bracket:** The bracket spans exactly two degrees (62°F or 63°F). 
+3. **Forecast uncertainty:** Since we are forecasting a specific high temperature for a single location a full year in advance (November 2026), actual meteorological forecasting skill is non-existent at this lead time, and the distribution simply reflects the climatological distribution of daily highs for that time of year. While 62–63°F is slightly warmer than average, it is well within the typical variance of November weather systems (which can occasionally bring unseasonably warm air masses up the East Coast).
+4. **Probability assignment:** Given typical November temperature distributions in Boston, the chance of hitting this specific 2-degree bin is roughly in line with its climatological frequency, which is low (typically under 10-15% for any specific narrow 2-degree range above the seasonal average). Considering standard statistical priors for weather markets a year out, assigning a low single-digit to low double-digit probability is most appropriate.
+
+PROBABILITY: 0.08"
+KXNFLDSTTD-26NOV19INDHOU-Y,groq,openai/gpt-oss-120b,v1,2026-11-17T22:22:09Z,0.2300,"Defensive and special‑teams touchdowns are relatively rare in the NFL – roughly 0.2 such scores occur per game on average (about a 10‑12 % chance for each team). Assuming the Colts and Texans are roughly typical, the chance that either team scores one in their matchup is about 1 – (0.88)² ≈ 0.22, or roughly a 20‑25 % probability. Slight team‑specific factors (e.g., a stronger Colts defense) might push it a few points higher, but not dramatically.
+
+PROBABILITY: 0.23"
+KXNCAAMBSPREAD-26NOV18CONNARIZ-ARIZ5,groq,openai/gpt-oss-120b,v1,2026-11-17T22:22:22Z,0.4400,"Both Arizona and UConn are traditionally elite programs that often produce close, high‑quality games.  In a typical early‑season matchup the two teams would likely be evenly matched, with perhaps a slight edge to UConn given its recent championship pedigree.  A margin of more than 4.5 points is modest – not a blowout but larger than a one‑score game.  Assuming the teams are roughly equal and the game is at a neutral site, the odds of a 5‑point‑plus win by either side are near 50 %.  Adjusting for UConn’s slight advantage, the chance that Arizona emerges as the winner by that margin drops a bit below 50 %.  
+
+**PROBABILITY: 0.44**"
+KXNFLGAME-26NOV26CHIDET-CHI,groq,openai/gpt-oss-120b,v1,2026-11-17T22:22:35Z,0.3800,"Both teams are expected to be near‑average this season. The Bears have a modest home‑field boost, but the Lions have held a slight edge over Chicago in recent years and are likely entering the game with a marginally better record and healthier roster. Accounting for home advantage and the small historical tilt toward Detroit, a reasonable win probability for Chicago is around 38 %.
+
+PROBABILITY: 0.38"
+KXNFLTD-26NOV22TENDAL-DALDALDST-1,groq,openai/gpt-oss-120b,v1,2026-11-17T22:22:48Z,0.1800,"Dallas’s defense and special teams typically score a touchdown in roughly 15‑25 % of their games, based on historical NFL data. The Cowboys’ D/ST has been average to slightly above average in turnover generation and return ability, while Tennessee’s offense is expected to be about league‑average, offering a modest chance for a defensive score. Accounting for the low base rate of D/ST touchdowns and the modest matchup, the probability of at least one Cowboys D/ST touchdown in this game is estimated around one‑in‑five.
+
+PROBABILITY: 0.18"
+KXNFLGAME-26NOV29NYGIND-NYG,groq,openai/gpt-oss-120b,v1,2026-11-17T22:23:01Z,0.4300,"The game pits two NFL teams whose relative strengths in recent seasons suggest the Giants are modest underdogs, especially if playing in Indianapolis. Accounting for typical home‑field advantage and the uncertainty of future roster changes, a reasonable estimate places the Giants’ chance of winning at roughly 43 %.
+
+PROBABILITY: 0.43"
+KXHIGHTOKC-26NOV18-T60,groq,openai/gpt-oss-120b,v1,2026-11-17T22:23:14Z,0.4800,"Oklahoma City’s climatology shows that early‑November daily highs typically hover around the 58‑60 °F range, with roughly half of past Nov 18s falling below 60 °F and half above. Recent warming trends have nudged the average high up a degree or two, slightly lowering the chance of a sub‑60 °F day. Without a specific weather outlook for 2026‑11‑18, a reasonable best‑guess places the probability just under 50 %.
+
+PROBABILITY: 0.48"
+KXLOWTSDF-26NOV18-T37,groq,openai/gpt-oss-120b,v1,2026-11-17T22:23:27Z,0.5700,"Louisville’s historical November lows hover around the high‑30s °F (average low ≈ 38 °F). Early‑November days are roughly equally likely to dip just below or just above the 37 °F threshold, with a slight tilt toward being a bit warmer because recent mild trends have nudged nightly lows upward a few degrees over the past decade. Assuming no extreme cold front, the chance that the minimum temperature on 18 Nov 2026 exceeds 37 °F is modestly above 50 %.
+
+PROBABILITY: 0.57"
+KXHIGHNY-26NOV18-B64.5,groq,openai/gpt-oss-120b,v1,2026-11-17T22:23:41Z,0.0180,"Typical November maximum temperatures in New York City average around 53 °F, with a day‑to‑day spread of roughly 10–12 °F.  A 64‑65 °F maximum sits about 1.1–1.2 standard deviations above the mean, placing it in the upper tail of the distribution.  Using a normal approximation (μ≈53 °F, σ≈10–12 °F) the probability of the maximum falling in the 1‑degree window 64–65 °F is on the order of 1–2 %.  Seasonal climate forecasts for late 2026 do not indicate any strong anomaly that would substantially raise this chance.  
+
+**PROBABILITY: 0.018**"
+KXHIGHTLV-26NOV18-B61.5,groq,openai/gpt-oss-120b,v1,2026-11-17T22:23:54Z,0.0600,"Historical data show that Las Vegas’s average maximum temperature in mid‑November is about 63 °F, with a typical day‑to‑day standard deviation of roughly 6 °F.  Assuming a roughly normal distribution for daily highs, the probability that a given day’s maximum falls within a 1 °F interval centred at 61.5 °F is  
+
+\(P \approx \frac{1}{\sigma\sqrt{2\pi}}e^{-(61.5-63)^2/(2\sigma^2)} \times 1\text{°F}\)  
+
+≈ 0.066 × 0.97 ≈ 0.064, or about 6 %.  Accounting for any slight skew toward cooler evenings in late November and the modest uncertainty in the σ estimate, a reasonable forecast range is 5–7 %.  
+
+**PROBABILITY: 0.06**"
+KXNFLOT-26NOV22NYJLAC-Y,groq,openai/gpt-oss-120b,v1,2026-11-17T22:24:07Z,0.0600,"The NFL sees overtime in roughly 5‑6 % of regular‑season games.  Week 11 matchups have no playoff pressure yet, and unless the teams are unusually evenly matched (which we have no specific evidence for), the chance stays near the league average.  Allowing a slight upward adjustment for the possibility of a close inter‑conference game, a reasonable estimate is about 6 %.
+
+PROBABILITY: 0.06"
+KXDIMAYORGAME-26NOV20BUCAME-AME,groq,openai/gpt-oss-120b,v1,2026-11-17T22:24:20Z,0.4400,"America Cali are traditionally a stronger side than Bucaramanga, but they will be playing away. In Colombian league matches the home side typically gains a 5‑10 % edge, and draws occur in roughly one‑third of games. Accounting for América Cali’s higher quality but the away‑game disadvantage and the chance of a draw, the odds that they win in regulation time are probably just under half.  
+
+PROBABILITY: 0.44"
+KXHIGHAUS-26NOV18-T73,groq,openai/gpt-oss-120b,v1,2026-11-17T22:24:33Z,0.1900,"Austin’s historical November maximum temperature averages about 68 °F with a typical spread of roughly ±6 °F. A threshold of 73 °F sits about 0.8 standard deviations above the mean, which corresponds to roughly a 20 % upper‑tail probability. Slight warming trends add only a marginal increase, and late‑November dates tend to be a bit cooler than early‑month values. Combining these factors suggests the chance of the max exceeding 73 °F on November 18 2026 is modest, on the order of one‑in‑five.
+
+PROBABILITY: 0.19"
+KXNFLFIRSTTD-26NOV22PITPHI-PITPITDST,groq,openai/gpt-oss-120b,v1,2026-11-17T22:24:46Z,0.0080,"The Steelers’ defense and special‑teams units score a touchdown in only a few percent of games, and the chance that such a score occurs *first* (before any offensive TD) is roughly one‑tenth of that.  Adjusting for the Steelers’ historically solid but not elite turnover generation, a realistic estimate is on the order of a few‑tenths of a percent.
+
+PROBABILITY: 0.008"
+KXNFLGAME-26NOV29LVCLE-LV,groq,openai/gpt-oss-120b,v1,2026-11-17T22:24:59Z,0.5700,"The Las Vegas Raiders have historically been a below‑average to middle‑of‑the‑pack team, while the Cleveland Browns have hovered around a .500 record in recent seasons. In a neutral matchup the odds would be close to even, but playing at home in Las Vegas adds roughly a 3‑4 % advantage. Accounting for the Raiders’ slightly weaker recent performance but offset by home‑field benefit, a reasonable estimate puts Las Vegas’s win probability in the high‑50 % range.
+
+PROBABILITY: 0.57"
+KXNBAGAME-26NOV20ORLBKN-ORL,groq,openai/gpt-oss-120b,v1,2026-11-17T22:25:12Z,0.5500,"Orlando will be playing at home, which in professional basketball typically confers a modest edge (roughly 5‑10 % above a 50 % baseline).  Without specific injury news, recent form, or odds information for the teams, the safest neutral estimate is just above a coin‑flip, reflecting the home‑court boost but acknowledging the uncertainty about relative team strength.
+
+PROBABILITY: 0.55"
+KXNFLOT-26NOV22PITPHI-Y,groq,openai/gpt-oss-120b,v1,2026-11-17T22:25:25Z,0.0800,"Both the Steelers and the Eagles are typically competitive, strong‑offense teams, which raises the chance of a close game compared with the league average. However, even for evenly matched teams the NFL only goes to overtime in roughly 5‑7 % of regular‑season games. Accounting for the slightly higher matchup closeness but staying within historical bounds, a reasonable estimate is about an 8 % chance of overtime.
+
+PROBABILITY: 0.08"
+KXNCAAMBGAME-26NOV20WORCBRY-BRY,groq,openai/gpt-oss-120b,v1,2026-11-17T22:25:38Z,0.9400,"Bryant University plays at the Division I level, while Worcester State competes in Division III, so the talent, depth, and resources gap is large. Even accounting for a possible home‑court advantage for Worcester State and typical variability in college basketball, the historical win‑rate of D‑I teams versus D‑III opponents exceeds 90 %. A modest adjustment for any unknown injuries or scheduling quirks still leaves Bryant as a very strong favorite.
+
+PROBABILITY: 0.94"
+KXHIGHTBOS-26NOV18-B62.5,groq,openai/gpt-oss-120b,v1,2026-11-17T22:25:52Z,0.0050,"Boston’s November climate is cool, with an average daily high near 48 °F and a standard deviation of roughly 10 °F. Temperatures above 60 °F are uncommon—historically only a few such days occur in a decade, and the 62‑63 °F range sits in the far upper tail of the distribution (well above the typical 90‑th percentile). Accounting for the narrow 1‑degree window and the rarity of such warm November days, the chance that the maximum on Nov 18 2026 will fall exactly between 62 °F and 63 °F is on the order of a few tenths of a percent.
+
+**PROBABILITY: 0.005**"
