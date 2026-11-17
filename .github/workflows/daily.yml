@@ -2,11 +2,11 @@ name: daily-forecasts
 
 on:
   schedule:
-    - cron: "17 15 * * *"
-  workflow_dispatch:
+    - cron: "17 15 * * *"   # every day at 15:17 UTC (7:17am Pacific in winter)
+  workflow_dispatch:         # lets you run it manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write            # needed to commit the new data back to the repo
 
 concurrency:
   group: daily-forecasts
@@ -15,25 +15,37 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 75
+    env:
+      PYTHONUNBUFFERED: "1"   # show log lines live instead of all at the end
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - run: pip install -r requirements.txt
+
       - name: Resolve settled questions
         run: python resolve.py
+
       - name: Collect new questions
         run: python collect_markets.py
+
       - name: Get LLM forecasts
+        timeout-minutes: 50     # if this runs long, stop it but still save what we have
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python forecast.py
+
       - name: Score so far
+        if: always()
         run: python analyze.py
+
       - name: Commit data
+        if: always()            # save any forecasts collected, even if a step failed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
