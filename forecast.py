@@ -70,6 +70,10 @@ def main():
              and parse_time(q["expected_resolution"]) > now]
     print(f"{len(fresh)} fresh questions to forecast")
 
+    # Time budget per model, so one slow or rate-limited model can't use up the whole run.
+    # Anything not finished is simply left for the next run (if still fresh).
+    minutes_per_model = getattr(config, "MAX_MINUTES_PER_MODEL", 8)
+
     failures = 0
     for spec in config.MODELS:
         provider, model = spec["provider"], spec["model"]
@@ -78,7 +82,12 @@ def main():
             continue
         todo = [q for q in fresh if (q["question_id"], model, config.PROMPT_VERSION) not in done]
         print(f"{model}: {len(todo)} to forecast")
+        deadline = time.monotonic() + minutes_per_model * 60
         for q in todo:
+            if time.monotonic() > deadline:
+                print(f"  {model}: hit the {minutes_per_model}-minute budget; moving on")
+                break
+            started = time.monotonic()
             try:
                 text = ask(provider, model, q, now)
             except Exception as e:  # keep going; one bad call shouldn't kill the run
@@ -96,7 +105,7 @@ def main():
                 "probability": "" if p is None else f"{p:.4f}",
                 "raw_response": text[-1500:],
             }], FORECAST_FIELDS)
-            print(f"  {q['question_id']}: {p}")
+            print(f"  {q['question_id']}: {p}  ({time.monotonic() - started:.0f}s)")
             time.sleep(spec["seconds_between_calls"])
 
     if failures:

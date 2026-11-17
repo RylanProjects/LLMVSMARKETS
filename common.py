@@ -58,10 +58,10 @@ def append_csv(name, rows, fields):
         w.writerows(rows)
 
 
-def _request(method, url, retries=5, **kwargs):
+def _request(method, url, retries=5, timeout=60, **kwargs):
     for attempt in range(retries):
         try:
-            r = requests.request(method, url, timeout=60, **kwargs)
+            r = requests.request(method, url, timeout=timeout, **kwargs)
         except requests.RequestException as e:
             print(f"  network error ({e}); retrying")
             time.sleep(2 ** attempt * 2)
@@ -81,4 +81,6 @@ def get_json(url, params=None):
 
 
 def post_json(url, payload, headers):
-    return _request("POST", url, json=payload, headers=headers)
+    # fewer retries and a longer timeout: thinking models can take a while to answer,
+    # and retrying a rate-limited model many times just burns the run's time budget
+    return _request("POST", url, retries=3, timeout=120, json=payload, headers=headers)
