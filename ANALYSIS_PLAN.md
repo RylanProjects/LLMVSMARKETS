@@ -24,7 +24,7 @@ Secondary questions:
 
 - **Source:** Kalshi public API, collected daily by GitHub Actions; all data is in `data/` with git timestamps.
 - **Start:** November 16, 2026.
-- **End:** questions collected through **[January 15, 2027]**. Outcomes recorded until **[January 25, 2027]**, then the data is frozen and analyzed.
+- **End:** questions collected through **December 6th, 2026**. Outcomes recorded until **December 16th, 2026]**, then the data is frozen and analyzed.
 - **Question selection:** binary markets resolving 1–60 days out, bid/ask spread ≤ $0.10, volume ≥ 100 contracts, at most one market per event and three per series per day, randomly sampled. See `config.py` and `collect_markets.py`.
 - **Market forecast:** midpoint of the yes bid and ask at collection time.
 - **LLM forecasts:** one prompt (`PROMPT_VERSION = v1`, see `forecast.py`); the model is **not** shown the market price. Forecasts are made within 6 hours of collection.
