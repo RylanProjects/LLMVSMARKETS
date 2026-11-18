@@ -30,7 +30,7 @@ Secondary questions:
 - **LLM forecasts:** one prompt (`PROMPT_VERSION = v1`, see `forecast.py`); the model is **not** shown the market price. Forecasts are made within 6 hours of collection.
 - **Models:** `gemini-3.8-flash`, `gemini-3.5-flash-lite`, `openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.8-27b`.
 
-### Changes already made (recorded honestly)
+### Changes already made
 - Nov 16 (first run): 30 questions; `llama-3.3-70b-versatile` was in the lineup but had been retired by Groq and returned errors, so it is excluded.
 - Nov 17: questions per day lowered from 30 to 18 to fit Gemini 3.8 Flash's free daily limit; forecast window lowered from 24 h to 6 h; Groq models changed to the current lineup. The prompt did not change.
 - Any further changes will be added to this list with a date.
