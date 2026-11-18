@@ -22,10 +22,12 @@ PROVIDERS = {
 # currently available, and edit this list before your first real run.
 # seconds_between_calls keeps you under each free tier's per-minute limit.
 MODELS = [
-    {"provider": "gemini", "model": "gemini-3.8-flash", "seconds_between_calls": 13},
     {"provider": "gemini", "model": "gemini-3.5-flash-lite", "seconds_between_calls": 5},
+    {"provider": "groq", "model": "openai/gpt-oss-120b", "seconds_between_calls": 12},
     {"provider": "groq", "model": "openai/gpt-oss-20b", "seconds_between_calls": 4},
-    {"provider": "groq", "model": "qwen/qwen3.8-27b", "seconds_between_calls": 6},
+    {"provider": "groq", "model": "qwen/qwen3.8-27b", "seconds_between_calls": 15},
+]
+MAX_MINUTES_PER_MODEL = 10_between_calls": 6},
 ]
 
 # Forecast a question only if it was collected within this many hours,
