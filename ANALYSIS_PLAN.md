@@ -1,6 +1,7 @@
 # Pre-Registered Analysis Plan
 
 **Study:** Do free large language models forecast real-world events as accurately as Kalshi prediction-market prices?
+
 **Plan committed:** November 17th 2026 — before any question had resolved with forecasts attached.
 
 This plan states the questions, data rules and analyses in advance. Anything done later that isn't listed here will be labeled **exploratory** in the paper.
