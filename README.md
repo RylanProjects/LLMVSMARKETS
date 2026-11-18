@@ -46,17 +46,3 @@ Total cost: $0. It uses Kalshi's free public API, free Gemini and Groq API tiers
 | `data/resolutions.csv` | settled question (yes/no) |
 
 A forecast with an empty `probability` means the model's answer couldn't be parsed. Keep those rows: the failure rate is a result too.
-
-## Research rules
-
-- **Don't change `config.py` mid-study.** If you change the prompt, bump `PROMPT_VERSION`. The analysis reports each version separately.
-- Questions are chosen randomly among liquid markets, with at most one per event and a few per series, so the sample isn't cherry-picked.
-- Look at `analyze.py` output only after a few hundred questions have resolved. Before that, the confidence intervals will be too wide to support conclusions.
-- Markets settled as void or 50/50 are excluded. Mention this in your writeup.
-
-## Ideas for the paper
-
-- Results split by category: sports vs. weather vs. economics vs. politics (use the `series` column)
-- Results by time to resolution: are LLMs relatively better on longer-horizon questions?
-- Questions about events after a model's training cutoff vs. before it
-- A second prompt version that *does* show the market price: can the LLM improve on it?
