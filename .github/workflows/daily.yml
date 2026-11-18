@@ -2,11 +2,11 @@ name: daily-forecasts
 
 on:
   schedule:
-    - cron: "17 15 * * *"   # every day at 15:17 UTC (7:17am Pacific in winter)
-  workflow_dispatch:         # lets you run it manually from the Actions tab
+    - cron: "17 15 * * *"   
+  workflow_dispatch:         
 
 permissions:
-  contents: write            # needed to commit the new data back to the repo
+  contents: write            
 
 concurrency:
   group: daily-forecasts
@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 75
     env:
-      PYTHONUNBUFFERED: "1"   # show log lines live instead of all at the end
+      PYTHONUNBUFFERED: "1" 
     steps:
       - uses: actions/checkout@v4
 
@@ -34,7 +34,7 @@ jobs:
         run: python collect_markets.py
 
       - name: Get LLM forecasts
-        timeout-minutes: 50     # if this runs long, stop it but still save what we have
+        timeout-minutes: 50    
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -45,10 +45,15 @@ jobs:
         run: python analyze.py
 
       - name: Commit data
-        if: always()            # save any forecasts collected, even if a step failed
+        if: always()           
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data plots
-          git diff --cached --quiet || git commit -m "Daily data $(date -u +%Y-%m-%d)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Daily data $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 10
+          done
+          exit 1
