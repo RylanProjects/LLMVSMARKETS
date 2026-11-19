@@ -28,7 +28,7 @@ MODELS = [
     {"provider": "groq", "model": "qwen/qwen3.8-27b", "seconds_between_calls": 15},
 ]
 MAX_MINUTES_PER_MODEL = 10
-]
+
 
 # Forecast a question only if it was collected within this many hours,
 # so the LLM forecast and the market price snapshot are close in time.
