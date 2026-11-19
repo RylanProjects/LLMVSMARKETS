@@ -27,7 +27,7 @@ MODELS = [
     {"provider": "groq", "model": "openai/gpt-oss-20b", "seconds_between_calls": 4},
     {"provider": "groq", "model": "qwen/qwen3.8-27b", "seconds_between_calls": 15},
 ]
-MAX_MINUTES_PER_MODEL = 10_between_calls": 6},
+MAX_MINUTES_PER_MODEL = 10
 ]
 
 # Forecast a question only if it was collected within this many hours,
