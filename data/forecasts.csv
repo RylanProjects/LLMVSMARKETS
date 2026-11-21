@@ -1566,3 +1566,366 @@ According to historical data (e.g., NOAA), for Nov 21:
 - I will estimate the probability at approximately 5%.
 
 PROBABILITY: 0.05"
+KXNBAGAME-26NOV24DETORL-DET,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:07Z,0.4000,"To estimate the probability of this market, we consider a hypothetical professional basketball game between the Detroit franchise and the Orlando franchise scheduled for November 24, 2026. 
+
+In general, without specific catastrophic injury news or anomalous circumstances, regular-season NBA matchups between these teams feature standard home-court advantages and competitive rosters. While Detroit has had varying levels of success in recent seasons, their baseline probability against Orlando on any given night typically hovers around 35% to 45% depending on the venue and current team strength, assuming standard power ratings. 
+
+Factoring in normal league variance, parity, and home/away splits for late 2026, a fair market estimate for a Detroit win is approximately 40%.
+
+PROBABILITY: 0.40"
+KXNCAAMBGAME-26NOV24JACIND-JAC,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:13Z,0.0800,"To estimate the probability that Jacksonville defeats Indiana in men's college basketball, we can look at the relative historical strength and typical resource levels of the two programs. Indiana University is a major-conference (Big Ten) powerhouse with significantly greater institutional resources, recruiting pipelines, and historical success compared to Jacksonville University, which plays in the ASUN Conference. When a mid-major program plays a Power Four/Big Ten team—especially in a game likely played on Indiana's home court—the market heavily favors the major-conference team. While upsets do happen in college basketball, the talent gap makes an Indiana win overwhelmingly likely. 
+
+PROBABILITY: 0.08"
+KXLALIGA1HSPREAD-26NOV22GETATM-ATM2,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:20Z,0.0400,"To determine the probability that Atletico Madrid leads Getafe by more than 1.5 goals (i.e., by 2 or more goals) at halftime in their La Liga match on November 22, 2026:
+
+1. **Base Rate of Halftime Leads:** In professional soccer, leading by 2+ goals at halftime is a relatively rare occurrence overall, typically happening in less than 5–8% of matches even for top-tier teams against mid-table or relegation-threatened sides.
+2. **Atletico Madrid's Profile:** Atletico is known for Diego Simeone's structured, often pragmatic style of play. While they are strong favorites against Getafe, they rarely blow teams out in the first half; they tend to control games, grind out results, and accumulate goals gradually rather than piling up massive early leads.
+3. **Away Context:** The match is likely an away fixture at Getafe (known for a compact, defensive style, especially at home), which further depresses the likelihood of an early multi-goal onslaught.
+4. **Probability Estimation:** The chance of Atletico securing a 2+ goal margin *specifically within the first 45 minutes* is low—likely around 3% to 6%.
+
+PROBABILITY: 0.04"
+KXLOWTNYC-26NOV22-B50.5,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:26Z,0.0500,"To estimate the probability that the minimum temperature in New York City (CLINYC) on November 22, 2026, will be 50–51°F according to The Weather Company:
+
+1. **Climatology for late November in NYC:** The historical average low temperature for late November in New York City is typically in the upper 30s to around 40°F (roughly 37–42°F). 
+2. **Probability of a 50–51°F low:** A minimum temperature of 50–51°F is significantly warmer than average for late November (representing an anomalously warm night/early morning, often associated with a strong southerly flow or passing warm front ahead of a cold front). While such warm extremes do occur occasionally in autumn, they are relatively rare events for late November.
+3. **Width of the bin:** The range is very narrow (exactly 2 degrees: 50°F and 51°F). Even if a warm weather system is predicted, hitting this exact 2-degree window for the *minimum* temperature adds further precision constraints.
+
+Considering historical climatology and the narrowness of the target range, the probability of the minimum temperature landing precisely on 50 or 51 degrees Fahrenheit on this specific date is low.
+
+PROBABILITY: 0.05"
+KXNBAGAME-26NOV24BOSWAS-BOS,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:32Z,0.7800,"To estimate the probability that the Boston pro basketball team defeats the Washington pro basketball team in their matchup scheduled for November 24, 2026, we look at the relative strength of the two franchises as of the current 2026-27 NBA season context. Boston is traditionally one of the stronger contenders in the Eastern Conference, while Washington is typically in a rebuilding phase. Even playing away or accounting for standard game-to-game variance, Boston will be heavily favored in this matchup.
+
+PROBABILITY: 0.78"
+KXLOWTATL-26NOV22-T49,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:39Z,0.6500,"To estimate the probability that the minimum temperature in Atlanta (CLIATL) on November 22, 2026, will be below 49°F, we consider historical climatological data for late November in Atlanta. 
+
+Late November in Atlanta typically sees average low temperatures in the low-to-mid 40s (°F). Specifically, the normal daily minimum temperature around this date is generally in the range of 42°F to 45°F. Because a threshold of 49°F is slightly above the historical average low for this time of year, there is a strong climatological likelihood that the minimum temperature will dip below 49°F on any given late-autumn night, barring an unusually strong warm front or unseasonable warmth. 
+
+Typically, historical November data indicates that a low below 49°F occurs on the majority of days in late November (roughly 60% to 70% of the time). Factoring in normal weather variability and the climatological baseline for Atlanta in late autumn, the probability of the minimum temperature being under 49°F is moderately high.
+
+PROBABILITY: 0.65"
+KXISLGAME-26NOV221305BHEHAP-HAP,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:45Z,0.3500,"To determine the probability that Hapoel Haemek wins against Bnei Herzliya Basket in the Israel Super League basketball game scheduled for November 22, 2026:
+
+1. **Team Strengths & Context**: Bnei Herzliya is generally an established club in the Israeli Super League, whereas Hapoel Haemek (frequently playing under names like Hapoel Afula / Emek HaYarden depending on exact rebranding/mergers in the Israeli basketball pyramid) represents a competitive tier, but Bnei Herzliya is typically favored when hosting or playing matches of this caliber. 
+2. **Base Rates in Basketball**: In professional basketball leagues, even when one team is favored, underdogs routinely win around 25% to 35% of the time depending on the exact point spread. Without extreme outlier information, a visiting or lesser-fancied team usually has an implied win probability in the 30%–40% range. Given that exact rosters for the 2026-2027 season are still generalized and subject to variance, we lean slightly toward the standard away/underdog baseline.
+
+Weighing these factors, a fair probability for Hapoel Haemek winning this matchup is roughly 35%.
+
+PROBABILITY: 0.35"
+KXHIGHTDC-26NOV22-B62.5,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:52Z,0.1800,"To evaluate the probability that the maximum temperature in Washington, D.C. (station CLIDCA) on November 22, 2026, will be exactly 62°F or 63°F according to The Weather Company:
+
+1. **Climatology:** November 22 in Washington, D.C. typically sees average high temperatures in the upper 50s to around 60°F (historical normal high is roughly 56–58°F). A maximum temperature of 62–63°F is slightly above normal, but well within normal weather variability for late autumn.
+2. **Precision of the Bin:** The market requires the high temperature to fall into a very narrow two-degree integer range (62°F or 63°F). Even with accurate short-range forecasts, temperature predictions a day out have a standard error of at least 2–3 degrees, and hitting a specific 2-degree bin is inherently a low-probability event compared to the broader distribution of possible temperatures.
+3. **Base Rate for Narrow Bins:** For a typical late-fall day in DC, predicting a specific 2-degree range 24 hours in advance usually carries a probability around 15% to 25%, depending on the specific forecasted frontal passages. Absent specific forecast data for this future date, we rely on climatological dispersion, which suggests a low-to-moderate chance for any specific narrow band. 
+
+Weighing the typical variance of temperature forecasts against the narrowness of the 2-degree target, a reasonable estimate is around 18%.
+
+PROBABILITY: 0.18"
+KXHORMUZWEEKLY-26NOV29-T27,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:56:58Z,0.8500,"To estimate the probability that there will be more than 27 transit calls through the Strait of Hormuz from November 23 to November 29, 2026, as reported by IMF PortWatch, we must consider typical shipping volumes through this critical chokepoint.
+
+The Strait of Hormuz is one of the busiest oil and cargo transit lanes in the world. Under normal operating conditions, dozens of large commercial vessels (tankers and cargo ships) transit the strait daily. Over a 7-day period, normal baseline traffic levels typically exceed 27 transits significantly (often averaging several transits per day, leading to totals well above 20-30 depending on how IMF PortWatch specifically categorizes and tracks these calls). 
+
+Even accounting for potential geopolitical tensions, disruptions, or seasonal variations, the baseline volume of commercial shipping recorded by high-level tracking initiatives like IMF PortWatch usually maintains a weekly count higher than 27 unless there is a near-total blockade or severe military closure of the strait. Given that a complete closure is a low-probability tail event, the weekly transit count is very likely to surpass the threshold of 27.
+
+PROBABILITY: 0.85"
+KXNCAAMBGAME-26NOV24CMUND-CMU,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:04Z,0.1200,"To estimate the probability of Central Michigan winning against Notre Dame in men's college basketball, we consider the relative strengths of the two programs. Notre Dame is a power-conference program (ACC), whereas Central Michigan plays in the Mid-American Conference (MAC). Historically and currently, power-conference teams are heavily favored against mid-major opponents, especially when hosting at home (assuming standard home-court advantage for Notre Dame early in the season). While early-season college basketball can have upsets, a mid-major team like Central Michigan beating Notre Dame away from home is an unlikely event. 
+
+Based on typical power-conference vs. mid-major matchup odds, Central Michigan would likely be around a 12 to 18-point underdog, translating to roughly a 10% to 15% win probability.
+
+PROBABILITY: 0.12"
+KXBTCD-26NOV2717-T49999.99,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:10Z,0.9500,"To determine the probability that the Bitcoin price will be above $49,999.99 on November 27, 2026, we consider the current date (November 21, 2026) and the prevailing macroeconomic and crypto market context. 
+
+Historically, Bitcoin has traded well above $50,000 for extended periods leading up to late 2026, and even in conservative downside scenarios, a price drop below $50,000 within the next week would require a massive, abrupt market crash. While cryptocurrency markets are notoriously volatile, the probability of Bitcoin maintaining a price above this relatively modest threshold (compared to its multi-year trading range) is exceedingly high.
+
+PROBABILITY: 0.95"
+KXFEATURE-26GTA6SCORE-THU,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:17Z,0.1500,"n late 2025, and official soundtracks, scores, or accompanying original music albums typically roll out around or shortly after the game's launch, extending into 2026. 
+2. **Musical Fit and Rockstar's History:** Rockstar Games is known for curating massive, genre-spanning soundtracks featuring prominent hip-hop artists. Young Thug is a major figure in modern Atlanta trap music, and Rockstar has previously included his music in *Grand Theft Auto Online* updates (e.g., ""The Cayo Perico Heist""). 
+3. **Legal Status:** Young Thug's legal situation (specifically the prolonged YSL RICO trial) created significant uncertainty regarding his recording output and freedom. However, with the trial concluding or shifting by 2026, the possibility of him recording or having pre-recorded unreleased tracks featured in major media projects is viable.
+4. **Distinction between ""Score"" and ""Soundtrack"":** The market specifically mentions *The Original Score* (composed instrumental music) rather than the radio stations (licensed tracks). While rappers are occasionally featured on original scores or accompanying official thematic albums for major media (such as Travis Scott on *Tenet* or Kendrick Lamar on *Black Panther*), feature placements on a video game's *score* are rarer than on its licensed radio stations.
+
+Weighing his strong historical ties to Rockstar, his prominence in the hip-hop genre, against the specificity of an ""original score"" feature, the probability is moderate.
+
+PROBABILITY: 0.15"
+KXLOWTSDF-26NOV22-B37.5,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:23Z,0.1800,"To forecast the probability that the minimum temperature in Louisville (CLISDF) on November 22, 2026, will be 37°F or 38°F according to The Weather Company:
+
+1. **Climatology for Louisville in Late November:** Late November in Louisville, Kentucky, typically brings daily low temperatures averaging in the mid-to-high 30s°F (around 35–40°F). Therefore, 37°F and 38°F fall right near the center of the expected climatological distribution for this time of year.
+2. **Forecast Horizon:** The target date is tomorrow (Nov 22, 2026), meaning meteorologists have access to short-range high-resolution numerical weather prediction models (like the HRRR, GFS, and ECMWF) which are quite accurate 24–36 hours out. 
+3. **Width of the Bracket:** The target range is quite narrow—only two integer degrees (37° and 38°). Even with a good forecast, small shifts in cloud cover, frontal timing, or wind can easily shift a low temperature by 2–4 degrees. 
+4. **Probability Assignment:** Given that the target is right in the climatological sweet spot for late November, but capturing a precise 2-degree integer bracket remains inherently noisy even a day in advance, a fair baseline probability for hitting this specific narrow integer range is roughly 15% to 20%.
+
+PROBABILITY: 0.18"
+KXBOXING-26NOV28KABAYEHYSA-KABAYE,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:29Z,0.9200,"To estimate the probability that Agit Kabayel wins the boxing match against Nelson Hysa scheduled for November 28, 2026, we look at the relative standing and pedigree of both fighters. Agit Kabayel is an elite heavyweight contender (ranked near the top of the division, holding notable wins over fighters like Arslanbek Makhmudov and Frank Sanchez). Nelson Hysa is a lesser-known heavyweight who, while undefeated, represents a significant step down in competition compared to Kabayel's recent opponents. Given Kabayel's technical skill, high ranking, and proven ability at the world-class level, he is an overwhelming favorite in this matchup.
+
+PROBABILITY: 0.92"
+KXNCAAMBGAME-26NOV24SDSUISU-SDSU,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:36Z,0.3800,"To estimate the probability of San Diego State winning against Iowa State in a men's college basketball game scheduled for November 2026, we consider the historical strength and typical power-conference status of both programs. 
+
+Iowa State is generally projected as a top-tier Big 12 program heading into the 2026–2027 season, frequently ranking in the AP Top 25. San Diego State, while historically a very strong Mountain West program, is typically viewed as a slight underdog when playing a high-major contender like Iowa State, especially in a neutral-site or away context (often part of early-season multi-team events like the Players Era Festival or Maui Invitational). 
+
+Accounting for standard power-conference vs. non-power-conference dynamics at the high major level, Iowa State would likely be favored by roughly 3 to 6 points, translating to an implied win probability of roughly 35% to 42% for San Diego State. 
+
+PROBABILITY: 0.38"
+KXHIGHTSFO-26NOV22-B55.5,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:42Z,0.2000,"To estimate the probability that the maximum temperature in San Francisco (CLISFO) on November 22, 2026, will be exactly 55°F or 56°F according to The Weather Company:
+
+1. **Climatology for Late November in San Francisco**: 
+   - Late November in San Francisco typically sees average daily high temperatures right around 60°F (usually ranging between 58°F and 62°F). 
+   - A maximum temperature of 55-56°F is slightly below average (cool, but not rare or extreme).
+
+2. **Weather Forecast Horizon**: 
+   - Today is November 21, 2026. The target date is tomorrow, November 22, 2026. At a 1-day lead time, weather forecasts are generally quite skillful, though temperature brackets (only a 2-degree range: 55-56°F) are narrow and sensitive to microclimates, cloud cover, or coastal winds.
+
+3. **Probability Assessment**:
+   - Because a 2-degree bracket (55-56°F) is very narrow, even with a 1-day forecast, small timing shifts in marine layer clouds or sea breezes can easily push the high to 54°F or 57°F. 
+   - However, if the forecasted high is around 55-56°F, the probability is higher than pure climatology. Considering the narrowness of the band, a reasonable baseline estimate for hitting a specific 2-degree bin in a 1-day forecast context is roughly 15% to 25%.
+
+PROBABILITY: 0.20"
+KXNFLPASSINT-26NOV22NYJLAC-NYJGSMITH7-1,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:48Z,0.6800,"To estimate the probability that Geno Smith records 1+ passing interceptions in the specified game, we consider the following factors:
+1. **Player Tendencies:** Geno Smith, like most starting NFL quarterbacks, averages well over 0.5 interceptions per game over the course of a season. A single interception is a very common occurrence in a full game of professional football.
+2. **Game Context:** NFL games feature roughly 30–35 passing attempts per starting quarterback, providing ample opportunity for at least one turnover-worthy play to result in an interception.
+3. **Statistical Baseline:** Historically, starting quarterbacks in the NFL have a probability well above 50% of throwing at least one interception in any given game, often ranging between 60% and 75% depending on the opposing defense and game script. 
+
+Given these standard NFL passing dynamics, the probability of recording at least one interception is high.
+
+PROBABILITY: 0.68"
+KXNFLRECYDS-26NOV22TBDET-TBTHURST17-20,gemini,gemini-3.5-flash-lite,v1,2026-11-21T20:57:54Z,0.0100,"To estimate the probability that Ted Hurst III records 20+ receiving yards in the Tampa Bay vs. Detroit game, we must first assess who Ted Hurst III is. As of late 2026, there is no prominent, active NFL player by the name of ""Ted Hurst III"" on the rosters of either the Tampa Bay Buccaneers or the Detroit Lions (nor is this a known current rookie or standard player name in professional football). 
+
+Because this appears to be a fictional, erroneous, or extremely obscure player name for an NFL game prop, the player is overwhelmingly unlikely to be active, let alone record 20+ receiving yards. 
+
+PROBABILITY: 0.01"
+KXNBAGAME-26NOV24DETORL-DET,groq,openai/gpt-oss-120b,v1,2026-11-21T20:58:00Z,0.5300,"Both teams are in a similar rebuilding phase with comparable talent levels, and neither has a clear edge in recent head‑to‑head matchups. Assuming a modest home‑court advantage for Detroit, the win probability is slightly above 50 %.  
+
+PROBABILITY: 0.53"
+KXNCAAMBGAME-26NOV24JACIND-JAC,groq,openai/gpt-oss-120b,v1,2026-11-21T20:58:13Z,0.1200,"Jacksonville (the Dolphins) play in the ASUN, a mid‑major conference, while Indiana (the Hoosiers) are a perennial Big Ten power that typically finishes near the top of a major conference and is regularly ranked nationally.  
+
+In recent seasons Indiana has been a top‑25 team with a deep roster, strong recruiting classes, and a home‑court advantage (the game is scheduled at Indiana’s Assembly Hall). Jacksonville’s best recent seasons have been modest, often finishing in the lower half of the ASUN and rarely posting wins against Power‑Five opponents.  
+
+Upset wins by mid‑majors over top‑tier Big Ten teams do happen, especially if the favorite is dealing with injuries or the underdog has an exceptional shooter or a hot guard, but those conditions are relatively rare. Barring any major injury news or an unusually favorable venue (e.g., a neutral site with Jacksonville as the designated “home” team), the odds heavily favor Indiana.  
+
+Given the talent gap, conference strength, and typical home‑court effect, a reasonable estimate for Jacksonville pulling off the upset is roughly one in ten to one in eight.  
+
+**Estimated probability:** about 12 %.
+
+PROBABILITY: 0.12"
+KXLALIGA1HSPREAD-26NOV22GETATM-ATM2,groq,openai/gpt-oss-120b,v1,2026-11-21T20:58:27Z,0.1000,"Atletico Madrid are typically strong offensively and Getafe often concede multiple goals, especially away from home. In a La Liga matchup the chance of Atletico scoring at least two goals in the first half is roughly a quarter, while Getafe keeping a clean half‑time sheet is under 50 %. Multiplying these gives about an 11 % chance of a 2‑goal halftime lead; accounting for the fact the game is at Getafe (slightly reducing Atletico’s odds) brings the estimate down to roughly 10 %.
+
+PROBABILITY: 0.10"
+KXLOWTNYC-26NOV22-B50.5,groq,openai/gpt-oss-120b,v1,2026-11-21T20:58:40Z,0.0300,"Historical data shows that the average daily minimum temperature in New York City in late November is around 40‑45 °F, with a typical day‑to‑day variation of roughly 7‑9 °F (standard deviation ≈ 8 °F). Assuming a roughly normal distribution for the minimum temperature on 22 Nov 2026, a mean of about 42‑43 °F gives a Z‑score of ≈ 1.0 for 50 °F and ≈ 1.1 for 51 °F. The cumulative‑distribution difference between those Z‑scores corresponds to a probability of about 2‑3 % that the minimum will fall in the narrow 50‑51 °F band. Accounting for modest warming trends and measurement granularity does not change this estimate substantially.
+
+**PROBABILITY: 0.03**"
+KXNBAGAME-26NOV24BOSWAS-BOS,groq,openai/gpt-oss-120b,v1,2026-11-21T20:58:53Z,0.6200,"Boston is a perennial playoff team with a strong roster and home‑court advantage, while Washington is usually a middle‑to‑lower‑seed team and has struggled defensively this season. Assuming no major injuries to Boston’s stars and Washington fielding its regular rotation, the Celtics’ win probability in a typical home game is roughly 60 %–65 %. Accounting for the normal variance in player health and the possibility of a surprise performance by Washington, a calibrated estimate sits a little above the midpoint.
+
+PROBABILITY: 0.62"
+KXLOWTATL-26NOV22-T49,groq,openai/gpt-oss-120b,v1,2026-11-21T20:59:06Z,0.7100,"Atlanta’s historical November minimum temperature averages about 46 °F, with a typical day‑to‑day spread of roughly ±5 °F. Being below 49 °F is therefore a little warmer than the climatological median. Assuming a normal‑like distribution, the z‑score for 49 °F is (49 – 46)/5 ≈ 0.6, giving a cumulative probability of roughly 0.73.  Adjusting slightly for the modest recent warming trend and the chance of an unseasonably warm spell, a reasonable estimate is around 70 % that the low will fall under 49 °F.
+
+PROBABILITY: 0.71"
+KXISLGAME-26NOV221305BHEHAP-HAP,groq,openai/gpt-oss-120b,v1,2026-11-21T20:59:18Z,0.4400,"Hapoel Haemek is generally a weaker side than Bnei Herzliya, which has a solid mid‑table record in the Israel Super League and will be playing at home. Home‑court advantage in Israeli basketball typically adds roughly 5‑7 percentage points to the host’s win probability. Given these factors, a reasonable estimate is that Hapoel Haemek has about a 40‑45 % chance to pull off the upset.  
+
+PROBABILITY: 0.44"
+KXHIGHTDC-26NOV22-B62.5,groq,openai/gpt-oss-120b,v1,2026-11-21T20:59:32Z,0.0600,"Washington DC’s historical average high for late‑November is about 55 °F, with a typical day‑to‑day spread of roughly 10 °F.  A 62‑63 °F maximum is about 7‑8 °F above the mean, placing it in the upper‑tail of the normal‑like temperature distribution.  Using a σ≈10 °F normal approximation, the probability density around 62 °F is ≈0.03 per °F, giving roughly a 3 % chance for a single‑degree window and about a 6 % chance for the 2‑degree interval 62‑63 °F.  Accounting for modest warming trends and the discrete nature of recorded highs, a reasonable estimate is around 5‑7 %.
+
+PROBABILITY: 0.06"
+KXHORMUZWEEKLY-26NOV29-T27,groq,openai/gpt-oss-120b,v1,2026-11-21T20:59:45Z,0.9700,"The Strait of Hormuz normally sees dozens of vessel transits each day – historically 20‑30 oil tankers plus many other ships, giving well over 100 calls in a typical week. Even in periods of heightened tension, traffic rarely drops below a few dozen weekly calls. Since the threshold of 27 calls for the entire week is far below normal levels, the chance that the IMF PortWatch count exceeds it is extremely high, with only a small residual risk of an unprecedented shutdown or reporting anomaly.
+
+PROBABILITY: 0.97"
+KXNCAAMBGAME-26NOV24CMUND-CMU,groq,openai/gpt-oss-120b,v1,2026-11-21T20:59:58Z,0.1200,"Notre Dame is a Power‑Five program with a consistently stronger recruiting base, deeper bench, and higher‑seeded tournament history, while Central Michigan comes from a mid‑major conference and typically receives lower rankings and fewer resources. Even accounting for the possibility of a home‑court advantage for Central Michigan and the inherent volatility of early‑season non‑conference games, the historical win‑loss differential suggests Central Michigan would be a clear underdog. A reasonable calibration places the upset probability in the low‑teens.
+
+PROBABILITY: 0.12"
+KXBTCD-26NOV2717-T49999.99,groq,openai/gpt-oss-120b,v1,2026-11-21T21:00:11Z,0.4000,"The Bitcoin market is currently trading in the high‑$40 k range, with a modest upward bias from recent institutional inflows and a generally stable regulatory environment. However, short‑term price moves remain driven by weekly liquidity cycles, macro‑economic news (e.g., US interest‑rate expectations), and occasional large‑volume swings that can push the price above or below the $50 k threshold within a few days. Historical data show that Bitcoin’s price crosses the $50 k level roughly 30–45 % of the time when it is hovering within ±5 % of that price over a week‑long horizon. Given the market’s current position just below $50 k and the limited time (six days) until the resolution point, a reasonable calibrated estimate places the chance of the 60‑second average at 5 PM EST on 27 Nov 2026 exceeding $49,999.99 at about **40 %**.
+
+PROBABILITY: 0.40"
+KXFEATURE-26GTA6SCORE-THU,groq,openai/gpt-oss-120b,v1,2026-11-21T21:00:24Z,0.1800,"Young Thug is a high‑profile rapper who could attract attention for a GTA VI soundtrack, and Rockstar has increasingly partnered with contemporary artists for in‑game radio and promotional music. However, the “Original Score” for a GTA title is typically an instrumental album composed by a small team of composers, and past scores (e.g., GTA V) have not featured vocal artists. No credible leaks or announcements have linked Young Thug to GTA VI, and the game’s launch window (2025‑2026) leaves limited time for new collaborations before the December 2026 resolution deadline. Given these factors, the chance that Young Thug will be featured on the official “Original Score” appears modest but not negligible.  
+
+PROBABILITY: 0.18"
+KXLOWTSDF-26NOV22-B37.5,groq,openai/gpt-oss-120b,v1,2026-11-21T21:00:37Z,0.0700,"The historical average low temperature for Louisville in late‑November is about 38 °F, with day‑to‑day variability on the order of 5–7 °F. Modeling the daily minimum as a roughly normal distribution (μ≈38 °F, σ≈6 °F) gives a probability density of ≈0.066 °F⁻¹ near 37.5 °F, so the chance of falling within the 1‑degree interval 37‑38 °F is about 6‑7 %. Accounting for slight skewness and year‑to‑year climate variability, a reasonable estimate is roughly 7 %.
+
+PROBABILITY: 0.07"
+KXBOXING-26NOV28KABAYEHYSA-KABAYE,groq,openai/gpt-oss-120b,v1,2026-11-21T21:00:50Z,0.5700,"Both fighters are relatively evenly matched, with Agit Kabayel having a slight edge in experience and recent form, while Nelson Hysa is a strong contender but has a marginally lower knockout rate. Assuming no major injuries or last‑minute changes, the market would likely price Kabayel as a modest favorite, translating to a win probability just above 50 %.
+
+PROBABILITY: 0.57"
+KXNCAAMBGAME-26NOV24SDSUISU-SDSU,groq,openai/gpt-oss-120b,v1,2026-11-21T21:01:03Z,0.4500,"San Diego State is a strong defensive program that often punches above its conference level, while Iowa State comes from a power‑conference (Big 12) and typically fields more athletic talent. Early‑season non‑conference games like this are frequently played at the home arena of the smaller school, giving SDSU a modest home‑court boost, but Iowa State still enters as a slight overall favorite. Considering these factors and the typical spread for such match‑ups, a reasonable estimate puts San Diego State’s chance of winning just under 50 %.
+
+PROBABILITY: 0.45"
+KXHIGHTSFO-26NOV22-B55.5,groq,openai/gpt-oss-120b,v1,2026-11-21T21:01:16Z,0.0400,"San Francisco’s November average daily high is about 61 °F with a typical spread of roughly 5 °F. A maximum of 55–56 °F sits more than one standard deviation below the mean, putting it in the lower tail of the historical distribution. Assuming a roughly normal spread, the chance of the daily high landing in a 1 °F window around 55.5 °F is on the order of a few percent (≈3‑5 %). A modest warming trend since the historical record would slightly lower that chance. Overall, the most plausible estimate is around 4 %.
+
+PROBABILITY: 0.04"
+KXNFLPASSINT-26NOV22NYJLAC-NYJGSMITH7-1,groq,openai/gpt-oss-120b,v1,2026-11-21T21:01:29Z,0.3800,"Geno Smith’s career interception rate has hovered around 1.5–2 % of pass attempts. In a typical game he throws roughly 30 passes, giving an expected 0.45 interceptions per game. That translates to a ≈ 35 % chance of at least one pick (1‑(1‑p)^{30}).  
+
+Considering the Chargers’ solid secondary, possible cold November weather at MetLife, and that Smith will be 36 years old in 2026 (which could modestly raise his turnover risk), the probability is nudged a bit higher. Conversely, if he is limited to fewer snaps or a more conservative game plan, the chance drops. Balancing these factors, a reasonable estimate is around **38 %**.
+
+PROBABILITY: 0.38"
+KXNFLRECYDS-26NOV22TBDET-TBTHURST17-20,groq,openai/gpt-oss-120b,v1,2026-11-21T21:01:42Z,0.0200,"Ted Hurst III does not appear in current NFL rosters or recent draft information, suggesting he is either a very low‑depth‑chart player, a practice‑squad member, or a fictional placeholder. Even if he were on the active roster, a wide‑receiver’s chance of reaching 20 + yards in a single game typically ranges from roughly 30 % for a starter to under 5 % for a fringe player. Given the lack of evidence that Hurst III will see any snaps, the odds of him recording any reception, let alone 20 yards, are extremely low. A reasonable estimate therefore puts the probability well under 5 %, around a few percent.
+
+PROBABILITY: 0.02"
+KXNBAGAME-26NOV24DETORL-DET,groq,openai/gpt-oss-20b,v1,2026-11-21T21:01:55Z,0.4800,"Detroit has traditionally been a weaker NBA franchise and, in 2026, is unlikely to be a dominant force against a comparable Orlando side.  With no major roster changes or injury updates suggesting a significant shift, the game is expected to be roughly a 50‑50 contest, but Detroit’s modest home‑court advantage and recent roster upgrades give it a slight edge.  A reasonable estimate for a Detroit win is therefore around 48 %.  
+
+PROBABILITY: 0.48"
+KXNCAAMBGAME-26NOV24JACIND-JAC,groq,openai/gpt-oss-20b,v1,2026-11-21T21:01:59Z,0.0500,"The matchup pits a historically strong Big Ten program (Indiana) against a mid‑division school (Jacksonville State). Historically, such games are heavily biased toward Indiana, with Jacksonville having rarely won against comparable opponents. Given expected team strengths, recent performance trends, and typical underdog probabilities, the chance of an upset is low—on the order of a few percent.  
+
+PROBABILITY: 0.05"
+KXLALIGA1HSPREAD-26NOV22GETATM-ATM2,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:04Z,0.0700,"Atletico Madrid historically scores modestly and tends to keep games tight, especially in the first half. In La Liga matches the odds of a team achieving a 2‑goal advantage (more than 1.5 goals) in the first 45 minutes is quite low—often below 10 %. Against a typically weaker opponent like Getafe, the chance rises slightly, but a 2‑goal swing in the opening half is still a rarity. Thus a conservative estimate puts the probability in the single‑digit range.
+
+PROBABILITY: 0.07"
+KXLOWTNYC-26NOV22-B50.5,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:08Z,0.0050,"The minimum temperature in New York City on a typical early‑November night is usually well below 40 °F, often plunging into the 20s or 10s. Historical data for November 22 show that temperatures in the 50‑51 °F range have never been recorded as a minimum; even the warmest winters have barely approached 40 °F. Given the expected continued warming trend and typical seasonal patterns, the likelihood that the overnight minimum on Nov 22, 2026 will hit exactly 50‑51 °F is extremely small. A reasonable estimate is a probability on the order of a few thousandths.
+
+PROBABILITY: 0.005"
+KXNBAGAME-26NOV24BOSWAS-BOS,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:13Z,0.6200,"Boston’s roster is projected to remain stronger than Washington’s by late 2026, and recent NBA trends suggest the Celtics would retain a significant advantage. Even accounting for roster turnover and injuries, the odds favor Boston winning this regular‑season game.  
+
+PROBABILITY: 0.62"
+KXLOWTATL-26NOV22-T49,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:17Z,0.0700,"The average minimum temperature for Atlanta in late November is typically around 55 °F, with a standard deviation of about 6–7 °F. A temperature below 49 °F represents roughly a 2 °F drop from the mean, which falls near the 85th percentile of historical lows, corresponding to an occurrence of about 5–10 % of days. Without any specific cold‑air forecast for that date, the most reasonable estimate is therefore around 7 %.  
+
+PROBABILITY: 0.07"
+KXISLGAME-26NOV221305BHEHAP-HAP,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:22Z,0.2200,"Hapoel Haemek is a mid‑tier club in the Israel Super League, while Bnei Herzliya typically fields a stronger squad with higher budget and more experience in playoff‑style matchups. Given the historical performance gap and the lack of any recent headline‑making upsets or roster overhauls for Haemek, the odds of Haemek pulling off a victory in this particular matchup are low. A reasonable estimate, accounting for possible late‑season surges or injuries, places the probability at roughly one in five.
+
+PROBABILITY: 0.22"
+KXHIGHTDC-26NOV22-B62.5,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:27Z,0.0200,"The winter of 2026 in Washington, D.C. is expected to follow the typical late‑season pattern seen in recent decades: highs in November rarely exceed the low‑60s, with the mean maximum around 52 °F and the 90th percentile near 58–60 °F. A maximum of 62–63 °F would therefore be an unusual event—roughly a one‑in‑ten to one‑in‑twenty chance based on historical climatology and recent forecast skill. Given that the range is only one degree wide, the probability that the maximum falls squarely between 62 and 63 °F is modest. I estimate it to be about two percent.
+
+PROBABILITY: 0.02"
+KXHORMUZWEEKLY-26NOV29-T27,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:31Z,0.9990,"The Strait of Hormuz routinely sees several dozen ships per day; a 7‑day window normally generates hundreds of transit calls. Historical data from IMF PortWatch shows average daily traffic around 30‑40 vessels, so the total for Nov 23‑29, 2026 would almost certainly exceed 27. Even accounting for temporary disruptions, the chance of staying below that threshold is effectively zero.
+
+PROBABILITY: 0.999"
+KXNCAAMBGAME-26NOV24CMUND-CMU,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:36Z,0.0250,"Central Michigan is a mid‑major program with limited recent success against top‑tier teams, whereas Notre Dame is a nationally ranked program that typically fields a stronger roster. Historically, mid‑majors win such matchups in only a few percent of games, and there are no indications of a significant roster change or injury that would alter that odds dramatically. Therefore, the probability that Central Michigan wins this particular game is very low.  
+
+PROBABILITY: 0.025"
+KXBTCD-26NOV2717-T49999.99,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:40Z,0.1500,"Bitcoin’s historical trajectory suggests that, over the next six days, the average price is more likely to remain in the mid‑$30,000–$45,000 range than to jump above $50,000. While Bitcoin can rally quickly, the market is presently in a relatively flat phase and the next major correction is expected to have already occurred by 2026, reducing the likelihood of a $50k+ spike. Given these conditions, I estimate a modest probability of roughly one‑in‑six that the BRTI average will exceed $49,999.99 at 5 PM EST on 2026‑11‑27.
+
+PROBABILITY: 0.15"
+KXFEATURE-26GTA6SCORE-THU,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:45Z,0.1200,"Young Thug’s music is typically hip‑hop rather than the orchestral instrumental style that Rockstar uses for its “Original Score” releases.  Historically, the GTA series’ original scores are composed by a small roster of composers (e.g., Tom Holkenborg, Tom Holkenborg, etc.) and rarely feature popular artists.  While Rockstar does include mainstream rap on its main soundtrack albums, it has not done so on the original score for any past titles, and no public indication suggests a shift in this practice for GTA VI.  Given the genre mismatch, the precedent against such collaborations, and the limited public speculation, the chance that Young Thug will appear on the GTA VI original score is quite low, though not impossible.  
+PROBABILITY: 0.12"
+KXLOWTSDF-26NOV22-B37.5,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:50Z,0.0700,"The long‑range forecast for November 2026 in the Louisville (CLISDF) region is still highly uncertain, but historical climatology suggests that the minimum temperature on a November night typically falls in the 30–45 °F range, with the median close to 38 °F. Because the resolution window (37–38 °F) is only a 1 °F span around that median, the probability that the actual minimum will land squarely within that narrow band is small—on the order of a few percent. A reasonable estimate, taking into account the spread of past minima and the 1 °F window, is about 7 %.
+
+PROBABILITY: 0.07"
+KXBOXING-26NOV28KABAYEHYSA-KABAYE,groq,openai/gpt-oss-20b,v1,2026-11-21T21:02:55Z,0.5000,"The fight has no publicly available performance data or betting odds yet, so with no evidence favoring either competitor, we treat the outcome as essentially a coin‑flip.  
+**PROBABILITY: 0.5**"
+KXNCAAMBGAME-26NOV24SDSUISU-SDSU,groq,openai/gpt-oss-20b,v1,2026-11-21T21:03:00Z,0.3200,"San Diego State has a respectable program but has historically been a step below Iowa State, which is a consistently higher‑ranked Big 12 power.  The game is scheduled at SD State’s home court, which provides a notable, but not decisive, advantage.  Given the expected depth and talent gap, the odds of an upset are modest—roughly one in three.  
+
+PROBABILITY: 0.32"
+KXHIGHTSFO-26NOV22-B55.5,groq,openai/gpt-oss-20b,v1,2026-11-21T21:03:04Z,0.0150,"The average maximum temperature in San Francisco during November is typically in the 60–68 °F range, with temperatures below 60 °F occurring on only a small fraction of days.  A 55–56 °F maximum is a very narrow band and is usually associated with an unusually cold front.  Based on historical frequencies and the typical seasonal trend, the chance that the maximum temperature on Nov 22, 2026 will fall between 55 and 56 °F is very low—roughly 1–2 %.  
+
+PROBABILITY: 0.015"
+KXNFLPASSINT-26NOV22NYJLAC-NYJGSMITH7-1,groq,openai/gpt-oss-20b,v1,2026-11-21T21:03:10Z,0.0006,"The key uncertainty is whether Geno Smith will actually appear in the game. At 41 years old (born 1985) he has already been cut from the Jets in 2021 and spent time with the Seahawks and Raiders before retiring in 2023. The probability that he is still on the Jets roster for the 2026 season is exceedingly small – roughly 0.5%–1%. Even if he were on the roster, the likelihood that he would be used in a passing situation and produce an interception is low; a backup of that age would see very few targets, and the chance of an interception on the limited attempts that he might have is on the order of 20–30%. Multiplying these odds gives a probability well below 1%, on the order of 0.05%–0.1%.  
+
+PROBABILITY: 0.0006"
+KXNFLRECYDS-26NOV22TBDET-TBTHURST17-20,groq,openai/gpt-oss-20b,v1,2026-11-21T21:03:15Z,0.1300,"Ted Hurst III is a rookie wide receiver drafted by the Detroit Lions and is expected to remain a depth‑chart player in 2026.  He is unlikely to receive more than a handful of targets per game, so the chance that he will amass 20+ receiving yards in a single Buccaneers‑Lions matchup is low—on the order of a few percent.  Factoring in the Lions’ projected offensive scheme and his limited role, I estimate a probability just above one in ten.  
+
+PROBABILITY: 0.13"
+KXNBAGAME-26NOV24DETORL-DET,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:03:21Z,0.5500,"ability by about 3-5 percentage points. If Detroit is playing at home (Little Caesars Arena), this favors a Detroit win. If Disney World is the venue, it favors Orlando. Standard market listing conventions usually list the home team first. Assuming Detroit is the home team:
+    *   Implied neutral probability: ~50%
+    *   Home court adjustment: +4% to +5%
+    *   Base estimate: ~54-55%
+
+3.  **Injury and Roster Changes**: By late 2026, rosters will have shifted significantly due to free agency, trades, and player development. Forcing a prediction without knowing the specific 2026-2027 rosters is difficult. However, betting markets typically price these games very tightly unless there is a lopsided mismatch or known injury crisis. In the absence of specific information suggesting Detroit is heavily favored, the likelihood hovers around the home court advantage baseline.
+
+4.  **Market Efficiency**: Prediction markets for NBA games are highly efficient. For an average matchup between two relatively comparable Eastern Conference teams, the spread is usually small (1.5 to 3.5 points). A spread of roughly 2-3 points translates to a win probability of approximately 55-58% for the home team.
+
+Given that Detroit is likely the home team (based on standard naming conventions in such prompts) and assuming comparable team strength typical of these two franchises in the mid-2020s rebuilding/maturing phase, the probability is slightly elevated above 50% due to home court.
+
+PROBABILITY: 0.55"
+KXNCAAMBGAME-26NOV24JACIND-JAC,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:03:37Z,0.0600,"eam.
+    *   Unless Jacksonville makes a surprise national breakthrough (e.g., winning multiple games against major conferences or having a generational talent that puts them on the map), they are significant underdogs.
+    *   In modern NBA-style scoring and pace, big talent gaps translate to large point spreads. Indiana would likely be favored by 20-30+ points.
+
+3.  **Upset Potential**:
+    *   Upsets by lower-tier teams against Big Ten teams while the Big Ten team is at a neutral site or on the road (assuming Jacksonville is home, as ""Jacksonville wins"" implies the market is looking for the underdog) do happen, but they are relatively rare.
+    *   The probability of a Group of 5/Atlantic Sun team beating a Big Ten team in a single non-conference game is typically low, often estimated in the single digits to low teens percentage range, assuming standard recruiting disparities.
+    *   Given that Jacksonville is not a ""minor major"" powerhouse with D1 aspirations like Dayton or College of Charleston, but rather a stable mid-conference Atlantic Sun team, their win probability is lower than that of higher-revenue G5 programs.
+
+4.  **Conclusion**:
+    *   Indiana is the overwhelming favorite.
+    *   Jacksonville's win probability is small. A reasonable estimate for a team of Jacksonville's caliber facing a Big Ten team is between 5% and 10%.
+    *   Accounting for the specific gap in conference tier (Atlantic Sun vs. Big Ten), an estimate of 5-7% is prudent.
+
+PROBABILITY: 0.06"
+KXLALIGA1HSPREAD-26NOV22GETATM-ATM2,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:04:09Z,0.0600,"f Halftime Lead:** Even when top teams win, leading by halftime is not guaranteed. A significant portion of games are drawn at halftime or have low-scoring leads.
+*   **Probability of a 2+ Goal Lead at HT:** This is a rare event.
+    *   The probability of a dominant top team being up by 2 goals at halftime in a league game is historically low, often estimated between 3% and 6% for even-matched top teams, and lower for mismatches where the favorite is cautious or the underdog is defensive.
+    *   Against a defensive team like Getafe, the expectation of a 0-0 or 1-0 halftime score is much higher than a 2-0 score.
+    *   If we assume Atletico has a strong chance of winning (say 50%), the conditional probability of leading by 2+ goals at HT given they win might be around 15-20% (since most wins come from 1-0, 2-1, or 3-1 scenarios developed through the full game, with the deficit or small lead persisting into the second half).
+    *   $50\% \text{ (win)} \times 15\% \text{ (2+ goal HT lead | win)} \approx 7.5\%$.
+
+Considering the defensive nature of Getafe and the typical pacing of Atletico's early matches, the probability is on the lower end of typical ""big lead"" markets. Most first-half high-margin wins are overvalued by casual bettors. A 2-0 lead at halftime is a significant outlier in La Liga, especially against a mid-table side.
+
+A reasonable estimate for a top team leading by 2+ goals at halftime against a mid-table defensive team is between 4% and 8%.
+
+PROBABILITY: 0.06"
+KXNBAGAME-26NOV24BOSWAS-BOS,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:05:31Z,0.8000,"s the home favorite or simply denotes the matchup. In home games, Boston's win probability increases significantly. If Washington is home, Boston's probability decreases slightly but remains high. Let's assume a neutral assessment where Boston is the clear talent favorite.
+4.  **Historical Precedent**: In recent years (2023-2026 era), the Celtics have been dominant. The Wizards have been in a rebuilding phase. A healthy Boston team has a very high win probability against a mid-to-late tier team like Washington.
+5.  **Uncertainty**: The main risks are player health (star injuries) and the variance inherent in a single early-season basketball game. However, the talent gap is significant. A typical pre-game betting line for an elite team away against a weaker team might be around -400 to -600 (implying roughly 80-85% win probability). If the game is in Boston, it could be higher (90%+). If the game is in Washington, it might be slightly lower (75-80%). Given the ambiguity of the home court in the short description, but assuming the standard interpretation of ""Team A vs Team B"" often implies Team A is the subject/favorite, we look at the core competitive disparity.
+
+Taking into account the strength of the Celtics roster compared to the Wizards, Boston is the heavy favorite. A realistic range for a strong favorite in the NBA is between 75% and 85%. Let's settle on approximately 80% as a central estimate, acknowledging the variance of a single early-seasong game.
+
+PROBABILITY: 0.80"
+KXLOWTATL-26NOV22-T49,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:06:03Z,0.4800,"slightly warmer winters in the Southeast US, which might push the average low slightly higher (e.g., to 50°F or 51°F). If the mean has shifted to 50°F, the probability of being below 49°F drops slightly below 50%.
+    *   However, late November is still prone to cold air outbreaks from the north. A significant cold snap could easily push temperatures into the 30s or 40s.
+    *   Conversely, a mild air mass could keep temperatures in the 50s.
+
+4.  **Calibration**:
+    *   Given that the climatological mean is extremely close to the 49°F threshold, the probability should be centered around 0.5.
+    *   Considering the slight warming trend over the last few decades, the mean might be slightly above 49°F (e.g., 49.5°F or 50°F).
+    *   If the mean is 50°F with a standard deviation of 7°F, the z-score for 49°F is roughly -0.14. The cumulative probability for Z < -0.14 is approximately 0.44.
+    *   If the mean is 49°F, the probability is ~0.50.
+    *   It is reasonable to believe the current climatology suggests the mean minimum is hovering right around or slightly above 49°F. Therefore, the probability is likely slightly below 50% or right at 50%. Let's assume a slight warmth bias pushes it down to roughly 45-48%.
+
+5.  **Conclusion**: The threshold is essentially the climatological average. The probability is nearly a coin flip, slightly adjusted for recent warming trends. A probability in the range of 45% to 50% is most appropriate. I will estimate it at 0.48.
+
+PROBABILITY: 0.48"
+KXISLGAME-26NOV221305BHEHAP-HAP,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:06:35Z,0.3000,"f the weaker team in a non-upset scenario is roughly 20-30%.
+    *   Considering basketball games can be volatile, and home court can swing odds by 5-10%, we need to know who is home. The prompt does not specify. In the absence of specific lineup news or home/away designation in the prompt, we rely on the implied strength differential.
+    *   Usually, prediction markets for underdogs in such sports matchups against superior opponents resolve Yes roughly 25-35% of the time. If Bnei Herzliya is significantly stronger (e.g., a 30+ point talent gap), the probability drops to ~15-20%. If they are closer, it could be ~40%.
+    *   Given Bnei Herzliya's established status as a top-4 to top-6 team and Hapoel Haemek's typical status as a mid-to-lower table team, Hapoel Haemek is the underdog. A standard price for an underdog in basketball against a slightly superior opponent is around 30-35 cents. If the opponent is *significantly* superior, it's closer to 20-25 cents.
+    *   Let's assume a standard mid-table vs. upper-mid-table matchup. The favorite likely has a 60-65% chance. This leaves the underdog (Haemek) with a 35-40% chance. However, if we view Herzliya as clearly better, the probability tilts to ~30%.
+
+    Let's refine: Bnei Herzliya has been a consistent playoff team. Hapoel Haemek has often been a rebuilding or lower-budget project. The talent disparity suggests Hapoel Haemek is not a favorite. I will estimate their win probability at approximately 30%.
+
+PROBABILITY: 0.30"
+KXHORMUZWEEKLY-26NOV29-T27,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:07:42Z,0.9800,"G carriers, container ships, etc.) under normal peacetime conditions. Even during periods of reduced traffic or minor disruptions, the number rarely drops below 20-25 per day due to the sheer volume of global energy trade.
+2.  **Timeframe**: The period in question is one week (Nov 23–29, 2026).
+3.  **Threshold Analysis**: The threshold is *more than 27 transit calls* over the entire 7-day period. This averages to about 3.8 transit calls per day.
+4.  **Comparison**: A rate of ~4 ships per day is exceptionally low for the Strait of Hormuz. In recent years, daily counts have consistently been in the 50s and 60s. For the total to be 27 or fewer over a full week, there would need to be a massive, unprecedented disruption (such as a total blockade or war) causing a near-closure of the strait for the entire week.
+5.  **Context**: While geopolitical tensions (e.g., involving Iran) exist, a complete suspension of traffic to such a low level (under 4/day) is highly improbable without a major, confirmed military conflict or total blockade. In the baseline ""business as usual"" or even ""elevated tension"" scenario, the number of transits will far exceed 27. Even in a scenario of significant friction, traffic usually remains well above this threshold.
+
+Therefore, the probability of having *more than* 27 calls is extremely high, approaching certainty. The probability of it being *27 or fewer* is very low. Consequently, the probability that it is *more than 27* is very high.
+
+PROBABILITY: 0.98"
+KXNCAAMBGAME-26NOV24CMUND-CMU,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:08:03Z,0.1200,"tionally, while Central Michigan has usually been a bottom-tier or mid-tier team in the MAC, rarely ranking outside the top 50-60 in the nation.
+3.  **Recruiting and Roster Strength**: By the 2026 season, the gap in player talent, experience in pressure situations, and coaching resources usually favors the Power 5 program. Unless Central Michigan had an exceptionally dominant roster that year (e.g., an ACC-caliber star player) or Notre Dame was in a rebuilding year, the favorite would overwhelmingly be Notre Dame.
+4.  **Home/Away Context**: The prompt does not specify the location, but even if Central Michigan were at home, the talent gap between a top-tier ACC team and a mid-major MAC team is usually too large for the underdogs to be considered a viable ~50/50 threat. They are typically short dogs (negative moneyline) in sports betting, implying high confidence in the favorite.
+5.  **Probability Estimation**: In sports betting markets, when a top-15 or top-25 team plays a bottom-20 or mid-major team, the underdog's implied probability is often between 5% and 15%. Given that Notre Dame is a perennial powerhouse and Central Michigan is a consistent mid-major, it is highly unlikely Central Michigan wins. A reasonable estimate for the underdog's win probability in such a mismatch is roughly 10-15%. Let's settle on a conservative estimate for the underdog's chance.
+
+Considering the significant tier difference, the probability of Central Michigan winning is low.
+
+PROBABILITY: 0.12"
+KXBTCD-26NOV2717-T49999.99,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:08:36Z,0.7500,"market after the 2024 peak), the chance of dropping below $50,000 in 6 days is low. A $15,000 drop (approx -23%) in 6 days is a high-volatility event, occurring with low probability (maybe <20-30%). Thus, the probability of staying YES is >70-80%.
+
+    If BTC crashed in 2025 to $30,000, the probability of YES would be low (<20%). However, lacking evidence of a crash, the Bayesian prior favors the asset being in a higher price range consistent with its recent history.
+
+    Let's assume a moderate stance. The threshold is $50k. The most probable price range for Nov 2026, given the 2024 breakout, is $40k-$80k+. The center of this mass is well above $50k. Therefore, P(BTC > $50k) is likely between 60% and 80%.
+
+    Let's refine. 6 days is short. Daily volatility for BTC is typically 3-5%. A move of -20% (to drop from $62k to $50k) in 6 days is a tail event. If we assume the price is around $60k-$70k (consistent with a cooling bull market), the probability of staying above $50k is high.
+
+    Conversely, if the price is hovering tightly around $50k, the probability would be 50/50. But prices don't usually linger exactly at round numbers without direction. Given the upward bias of the crypto cycle recently, ""above"" is a stronger bet than ""below"".
+
+    I will estimate the probability at roughly 75%. This accounts for the high likelihood that BTC is currently trading above $55k-$60k, such that a drop below $50k requires a significant negative shock in just one week.
+
+PROBABILITY: 0.75"
+KXLOWTSDF-26NOV22-B37.5,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:09:45Z,0.0700,"s inclusive of the boundaries. If the average low is ~36°F, the distribution is centered near there. The probability mass for a 2-degree bin around the mean is significantly higher than for a bin far from the mean.
+    *   Let's refine: The standard deviation of daily minimum temperatures in late November in Ohio is roughly 5-6°F.
+    *   If the mean low is ~36°F, the range 37-38°F is just above the mean.
+    *   Using a normal distribution approximation: $Z_1 = (37-36)/5.5 \approx 0.18$, $Z_2 = (38-36)/5.5 \approx 0.36$.
+    *   The probability between $Z=0.18$ and $Z=0.36$ is approximately $0.5714 - 0.5714$? No, looking at Z-tables:
+        *   $P(Z < 0.36) \approx 0.6406$
+        *   $P(Z < 0.18) \approx 0.5714$
+        *   Difference $\approx 0.069$ or ~7%.
+    *   If the mean low is slightly lower, say 34°F, then 37-38 is further out in the tail ($Z \approx 0.55$ to $0.73$), reducing the probability to ~5-6%.
+    *   If the mean low is higher, say 38°F, then 37-38 is near the mean, increasing the probability to ~8-10%.
+    *   Given that late November is getting colder, a mean of 34-36°F is most likely. This places the 37-38°F range in the upper quartile of outcomes.
+    *   A 2-degree window in a distribution with $\sigma \approx 5.5$ captures roughly 14% of the total probability mass if centered on the mean. Since it is slightly above the mean, the density is slightly lower.
+    *   Therefore, a probability between 5% and 8% is a reasonable estimate.
+
+PROBABILITY: 0.07"
+KXNCAAMBGAME-26NOV24SDSUISU-SDSU,groq,qwen/qwen3.8-27b,v1,2026-11-21T21:10:57Z,0.4500,"r such games, the spread is often small (e.g., -2 to -6 points). A point spread of -2 to -4 typically translates to a win probability of roughly 55-52% for the favorite. If we assume Iowa State is a slight favorite (due to Big 12 status and potentially stronger recruits on paper for 2026), SDSU's win probability would be below 50%, perhaps around 40-45%. Conversely, if they are considered even, it's 50%.
+
+However, San Diego State has historically been a strong team in the Mountain West and has shown resilience against Big 12 teams. Let's look at general ""mid-major vs mid-major/conference"" dynamics. Actually, Iowa State is now firmly in the Big 12. SDSU is in MW. Big 12 teams are generally considered a tier above MW in the broader college basketball pecking order (along with Big Ten, SEC, ACC, Big 12). Therefore, Iowa State likely holds a structural edge in talent and recruiting for 2026.
+
+If Iowa State is a favorite, their win probability is likely >50%. Let's estimate Iowa State at 58-62% and SDSU at 38-42%. If the game is at SDSU, that edge narrows, perhaps pushing Iowa State to 52-55% and SDSU to 45-48%. If neutral, Iowa State to 60% and SDSU to 40%.
+
+Without knowing the venue, a safe ""even match with slight talent edge to Iowa State"" model suggests SDSU is a slight underdog or a pick-em. Let's split the difference and account for the potential for early-season volatility. A reasonable estimate for the underdog in a close early-season game is around 45%.
+
+PROBABILITY: 0.45"
