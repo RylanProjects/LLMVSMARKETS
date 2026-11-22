@@ -1929,3 +1929,379 @@ If Iowa State is a favorite, their win probability is likely >50%. Let's estimat
 Without knowing the venue, a safe ""even match with slight talent edge to Iowa State"" model suggests SDSU is a slight underdog or a pick-em. Let's split the difference and account for the potential for early-season volatility. A reasonable estimate for the underdog in a close early-season game is around 45%.
 
 PROBABILITY: 0.45"
+KXBULLETBRAWLTOP-26NOV28T5-YTAH,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:06:38Z,0.0800,"To estimate the probability that Yoseph Theolifus Taher (an Indonesian Grandmaster and strong bullet chess player) finishes in the top 5 of the Bullet Brawl tournament on November 28, 2026, we must consider the competitive nature of the field. Bullet Brawl is a regular, highly competitive arena on Chess.com featuring numerous elite Grandmasters, including top speed-chess specialists like Hikaru Nakamura, Andrew Tang, Alireza Firouzja, and various other regular super-GMs who frequently dominate the prize pool.
+
+While Taher is a titled player with strong credentials, consistently breaking into the top 5 of a stacked Bullet Brawl field is statistically difficult given the density of world-class bullet specialists who usually occupy the top spots. Top 5 finishes in such events are typically dominated by a handful of elite regulars. Therefore, assigning a modest probability seems appropriate.
+
+PROBABILITY: 0.08"
+KXBUNDESLIGATOTAL-26NOV28PADSCH-4,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:06:44Z,0.2800,"To estimate the probability that over 3.5 goals are scored in the Paderborn vs Schalke match, we need to consider the typical goal-scoring averages in 2. Bundesliga soccer (assuming this refers to the German 2. Bundesliga, as Paderborn and Schalke currently play there or in the Bundesliga, and matches of this pairing historically trend toward competitive and moderately high-scoring affairs). 
+
+In professional German football, matches involving teams like Schalke and Paderborn average around 2.5 to 3.0 total goals. However, games featuring over 3.5 goals are relatively common (occurring in roughly 25% to 30% of matches depending on the specific seasons' form and defensive vulnerabilities of both sides). 
+
+Given that an over 3.5 line is quite high for a baseline soccer match prediction (requiring at least four goals), the default expectation should be below 50%. A realistic statistical probability for a match between these two sides to produce four or more goals during regular time is roughly 28%.
+
+PROBABILITY: 0.28"
+KXNHLGAME-26NOV27COLMIN-COL,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:06:50Z,0.5800,"To estimate the probability that the Colorado Avalanche defeat the Minnesota Wild in an NHL game scheduled for November 27, 2026, we look at the relative strengths of the two teams, home-ice advantage, and historical matchups as of the 2026–2027 NHL season. 
+
+Historically, the Colorado Avalanche have been one of the league's powerhouse teams, frequently featuring elite talent like Nathan MacKinnon and Cale Makar, making them strong favorites in most matchups. While hockey has high variance on a night-to-night basis, a baseline expectation for a strong team like Colorado against a competitive division rival like Minnesota typically places their win probability around 55% to 60%, depending on the exact location of the game and current injury reports. 
+
+Weighing Colorado's general roster superiority against the typical parity of the NHL, a reasonable probability estimate is 58%.
+
+PROBABILITY: 0.58"
+KXHIGHCHI-26NOV23-B40.5,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:04Z,0.1200,"To estimate the probability that the maximum temperature in Chicago (CLIMDW) on November 23, 2026, will be between 40°F and 41°F, we consider historical climate data for Chicago in late November. 
+
+Late November in Chicago typically sees daily high temperatures averaging in the low-to-mid 40s (around 42-46°F), but with high daily variance depending on passing cold or warm fronts. A specific two-degree bracket (40-41°F) represents a narrow slice of possible outcomes, roughly spanning 10-15% of the typical temperature distribution for this time of year, assuming a normal distribution around the seasonal average. Factoring in forecasting uncertainty two days out and the inherent discreteness of temperature reporting (usually in whole degrees), the probability of hitting precisely 40 or 41 is bounded, typically resting around 10% to 15% for standard weather distributions at this range.
+
+PROBABILITY: 0.12"
+KXNCAAFSPREAD-26NOV27FLAFSU-FLA7,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:10Z,0.4200,"To determine the probability that the Florida Gators defeat the Florida State Seminoles by more than 6.5 points in their rivalry game on November 27, 2026, we must evaluate the relative strengths of both programs as of late 2026. 
+
+While college football dynamics shift year-to-year through recruiting and the transfer portal, both Florida and Florida State are historically prominent programs in the SEC and ACC, respectively. A spread of 6.5 points implies that Florida is favored by nearly a touchdown. College rivalry games—especially Florida-FSU (often played in Tallahassee or Gainesville)—tend to be tightly contested, volatile, and heavily influenced by emotional factors, making margins of over a field goal less predictable. Historically, games between these two rivals often feature narrow margins, and giving up more than a field goal in a high-stakes rivalry match carries significant risk. 
+
+Balancing Florida's projected advantage with the inherent unpredictability and competitiveness of this rivalry, a 6.5-point spread is somewhat generous for a favorite in a road or neutral-feeling rivalry matchup.
+
+PROBABILITY: 0.42"
+KXNCAAFSPREAD-26NOV27WVUUTAH-UTAH21,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:16Z,0.1800,"To estimate the probability that Utah wins by over 20.5 points against West Virginia in the college football game scheduled for late November 2026, we consider typical power ratings and matchup dynamics for these two programs. 
+
+Utah is traditionally a strong program in the Big 12 (or their respective conference at that time) with a robust defense and disciplined coaching under Kyle Whittingham (or his successor), while West Virginia is typically a competitive mid-tier conference opponent. A spread of 20.5 points implies a blowout victory, which is a high threshold in college football even for heavily favored teams. While Utah could certainly win the game outright as favorites, winning by three touchdowns or more (21+ points) occurs in a minority of even heavily favored matchups. Factoring in typical game variance, injuries, and the competitive nature of conference play, a 20.5-point cover is a demanding condition.
+
+PROBABILITY: 0.18"
+KXLOWTPHIL-26NOV23-T48,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:25Z,0.2000,"To estimate the probability that the minimum temperature in Philadelphia (CLIPHL) on November 23, 2026, will be greater than 48°F, we consider historical climate data for late November in Philadelphia. 
+
+Late November in Philadelphia typically sees average low temperatures in the high 30s to around 40°F. A minimum temperature greater than 48°F is considerably warmer than average for this time of year, representing a rather mild autumn night (often associated with strong southerly flow, warm frontal passages, or cloudy/rainy conditions that prevent radiational cooling). While such temperatures are certainly possible given day-to-day weather variability, they occur as the exception rather than the norm. Therefore, the historical baseline probability of a daily minimum staying above 48°F in late November is relatively low, likely around 15% to 25%.
+
+PROBABILITY: 0.20"
+KXNCAAFTOTAL-26NOV28USCUCLA-46,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:32Z,0.5800,"To estimate the probability that the USC vs. UCLA college football game goes Over 45.5 total points, we consider typical scoring averages for major college football matchups, especially rivalry games (the traditional Thanksgiving weekend clash). 
+
+College football games feature an average of around 50 to 55 total points, and a line of 45.5 is relatively low, suggesting the market expects either moderate defense, conservative play, or potentially poor weather conditions, but it is still below the typical median scoring output. Both USC and UCLA have historically featured explosive offenses in recent years under modern spread-offense philosophies, making games between them frequently clear the 45.5-point threshold (often reaching well into the 50s or 60s). Even with typical variance, an over/under set at 45.5 gives a strong statistical edge to the ""Over"" in modern college football.
+
+PROBABILITY: 0.58"
+KXLALIGAGAME-26DEC05BARRCC-BAR,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:38Z,0.7000,"To estimate the probability of Barcelona winning their La Liga match against Celta Vigo on December 5, 2026, we consider the relative strengths of the two teams. Barcelona is historically one of the dominant clubs in La Liga and typically enters a home or away fixture against Celta Vigo as a strong favorite, given their superior squad quality, historical head-to-head record, and overall market expectations. While Celta Vigo is a competitive La Liga side capable of pulling off upsets, Barcelona's baseline win probability in such matchups generally hovers around 65% to 75% depending on venue and current form. Factoring in a standard home/away advantage and typical odds for this fixture, a reasonable estimate for a Barcelona regulation-time win is approximately 70%.
+
+PROBABILITY: 0.70"
+KXF1FP1FASTLAP-QATA26-VER,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:46Z,0.2200,"To estimate the probability that Max Verstappen records the fastest lap in Free Practice 1 of the 2026 Qatar Grand Prix, we consider the following factors:
+
+1. **Driver and Team Performance:** Max Verstappen and Red Bull Racing have historically been extremely competitive. Even if regulation changes or car competitiveness shift slightly by 2026, Verstappen remains one of the fastest and most consistent drivers over a single lap.
+2. **Practice Sessions Nature:** Free Practice 1 (FP1) is notoriously variable. Teams run different programs, fuel loads, and engine modes, and drivers rarely push to absolute maximum limits unless necessary, meaning FP1 results often feature surprise fastest drivers.
+3. **Base Rate for FP1 Fastest Laps:** While Verstappen frequently tops practice sessions, the field in Formula 1 is typically tight, and other top-tier drivers (from teams like McLaren, Ferrari, or Mercedes) frequently pip him in early practice sessions due to differing run plans. 
+
+Balancing his high overall one-lap pace against the inherent unpredictability and varied run programs of an FP1 session, a reasonable estimate is around 20-25%.
+
+PROBABILITY: 0.22"
+KXERCOTWESTW-20NOV26-T35,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:52Z,0.2800,"To estimate the probability that the ERCOT West Hub average real-time power price for Week 48 (ending November 27, 2026) exceeds $35/MWh, we consider historical averages and seasonal factors for late November in Texas. 
+
+Late November in ERCOT is typically a shoulder month characterized by mild weather (moderate heating and cooling demand), leading to lower baseline power prices compared to peak summer or winter months. West Hub prices are also heavily influenced by local wind generation and transmission constraints in the panhandle/west Texas region, which frequently cause real-time prices to dip low or even negative during high-wind periods. A weekly average of $35/MWh is relatively high for a mild fall week unless there is an unexpected cold snap, significant generation outages, or persistent transmission congestion. 
+
+Given these seasonal norms and the specific threshold, the probability of averaging above $35/MWh for that particular week is moderately low.
+
+PROBABILITY: 0.28"
+KXLIGAFTOTAL-26NOV23ESPVAL-3,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:07:59Z,0.4200,"To evaluate the probability of over 2.5 goals being scored in the Spanish Liga F match between Espanyol and Valencia:
+
+1. **Liga F Goal Trends**: The Spanish women's top flight (Liga F) has a significant competitive gap between top clubs and mid-table/relegation-battling teams, but Espanyol and Valencia are traditionally closer competitors, often resulting in relatively tight, low-scoring affairs.
+2. **Historical H2H and Team Profiles**: Both Espanyol and Valencia generally average low goal counts in their matches. Espanyol's matches average under 2.5 goals more often than not, and Valencia's offensive output has been modest. 
+3. **Statistical Baseline for Over 2.5 in Women's Soccer**: Generally, the baseline probability for an over 2.5 goals outcome in average European women's league matches is around 40% to 45%, depending heavily on the specific teams involved. For two lower-to-mid-table sides like Espanyol and Valencia, the expected goal expectancy tends to lean toward under 2.5 rather than over.
+
+Weighing these factors, an under 2.5 outcome is statistically more likely than an over 2.5 outcome.
+
+PROBABILITY: 0.42"
+KXNCAAFSPREAD-26NOV28WASHORE-ORE14,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:08:05Z,0.3500,"To estimate the probability of this market, we must consider the typical matchup between the Washington Huskies and the Oregon Ducks, particularly in the context of the 2026 college football season. Oregon is generally expected to be strong and potentially favored in this rivalry game, but winning a major rivalry game by 14 points or more (over 13.5) is a high threshold in college football, even for a superior team. Rivalry games tend to be closer than point spreads often suggest due to familiarity and high intensity. However, Oregon's home-field advantage (or general roster strength) could lead to a blowout if they perform at their ceiling. Weighing the standard distribution of college football margins against a strong favorite winning by two touchdowns or more, a reasonable probability for this outcome is around 35%.
+
+PROBABILITY: 0.35"
+KXHIGHTNOLA-26NOV23-T70,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:08:12Z,0.5500,"To estimate the probability that the maximum temperature in New Orleans (CLIMSY) on November 23, 2026, will be below 70°F, we consider historical climatology for late November in New Orleans. 
+
+Late November in New Orleans typically brings cooler autumn weather, with average daily maximum temperatures generally hovering in the upper 60s to around 70°F–72°F. Because 70°F is very close to the climatological median high temperature for this time of year, there is a substantial chance (roughly 50-60%) that a given late November day will stay below 70°F, especially considering the variability introduced by cold fronts. 
+
+Weighing typical climatological norms for late November against the threshold of 70°F, a slight majority of outcomes lean toward temperatures remaining below 70°F.
+
+PROBABILITY: 0.55"
+KXNFL1HFT-26NOV25GBLAR-TIEGB,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:08:18Z,0.0400,"To estimate the probability of this event, we need to evaluate two conditions occurring in the specified Green Bay vs. Los Angeles game:
+1. A tie score at the end of the 1st half (halftime).
+2. Green Bay winning the full game.
+
+NFL games feature a tied score at halftime in roughly 5% to 8% of all matchups. Green Bay's overall win probability depends on the relative strength of the teams, but as a baseline, a tie at halftime followed by a specific team winning the game is a compound probability. Assuming roughly a 6% chance of a halftime tie, and given that pre-game odds typically do not heavily favor either team to an extreme degree (let's assume Green Bay's overall win probability is around 50-60%), the conditional probability of Green Bay winning given a halftime tie is close to their general win probability. 
+
+Multiplying the approximate probability of a halftime tie (~0.06) by the probability that Green Bay wins from that point (roughly 0.50–0.55) yields an expected probability in the low single digits, typically around 3% to 4% for standard NFL matchups.
+
+PROBABILITY: 0.04"
+KXBRASILEIROTOTAL-26NOV29CFCFLA-6,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:08:25Z,0.0200,"To estimate the probability of over 5.5 goals being scored in a Brazilian Série A match between Coritiba and Flamengo:
+
+1. **Scoring rates in football:** Matches with 6 or more goals (over 5.5) are extremely rare in professional association football, typically occurring in less than 2–3% of top-flight matches globally.
+2. **Team profiles:** While Flamengo is often a strong offensive team in the Brasileirão, and Coritiba's defensive capabilities can vary depending on their exact squad status, a combined goal tally of 6+ requires an extraordinarily high-scoring, chaotic game (e.g., 4–2, 5–1, 6–0). 
+3. **Statistical baseline:** Historically, the empirical probability of hitting over 5.5 goals in any given top-tier league match is well under 5%. 
+
+Given these factors, the base rate heavily favors the market resolving to NO.
+
+PROBABILITY: 0.02"
+KXNCAAMBGAME-26NOV24BUPWAG-BUP,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:08:32Z,0.0500,"To evaluate this market, we need to compare the relative strength of Bloomsburg University (typically an NCAA Division II program in the Pennsylvania State Athletic Conference) and Wagner College (an NCAA Division I program in the Northeast Conference). 
+
+In men's college basketball, Division I teams playing at home against Division II opponents are overwhelmingly favored, usually by large margins (often 20+ points), as scholarship limits, athletic department resources, and overall talent levels heavily favor the D1 side. While upsets occasionally happen in early-season exhibitions or buy games, the statistical probability of a D2 program defeating a D1 program on the road is very low. 
+
+Therefore, Wagner is heavily favored to win this matchup.
+
+PROBABILITY: 0.05"
+KXHIGHTSATX-26NOV23-B63.5,gemini,gemini-3.5-flash-lite,v1,2026-11-22T21:08:38Z,0.1500,"To estimate the probability that the maximum temperature in San Antonio (CLISAT) on November 23, 2026, will be 63-64°F, we consider historical climate averages and the typical forecast uncertainty one day in advance. 
+
+Late November in San Antonio typically features daily high temperatures averaging around 70°F, with standard meteorological variability covering a normal spread of several degrees. A target range of just two degrees (63–64°F) represents a relatively narrow slice of possible outcomes for a daily maximum temperature forecast made one day ahead. While late-November cold fronts or cloud cover frequently suppress temperatures into the low 60s, pinning the exact high down to a specific 2-degree bracket carries inherent meteorological noise and forecasting error. 
+
+Given a typical spread of uncertainty, a fair estimate for hitting this specific two-degree bin is roughly 15%.
+
+PROBABILITY: 0.15"
+KXBULLETBRAWLTOP-26NOV28T5-YTAH,groq,openai/gpt-oss-120b,v1,2026-11-22T21:08:44Z,0.0300,"Yoseph Theolifus Taher is not a recognized name among the world’s leading bullet‑chess competitors, and the Bullet Brawl tournament typically fields a large, strong field (often 80‑120 players). Even strong grandmasters have roughly a 5‑10 % chance of finishing in the top 5 in such events, and lesser‑known players have substantially lower odds. Given the lack of any evidence that Taher is a top‑seeded player, a conservative estimate puts his chance of a top‑5 finish well below 5 %.  
+
+PROBABILITY: 0.03"
+KXBUNDESLIGATOTAL-26NOV28PADSCH-4,groq,openai/gpt-oss-120b,v1,2026-11-22T21:08:57Z,0.1800,"Both clubs are likely to be in the bottom half of the table in 2026, with Paderborn a recent promotion side and Schalke still rebuilding. Their matches historically average just under three goals, and Bundesliga games exceed 3.5 goals only about 30 % of the time overall, dropping to roughly 15‑20 % when a lower‑tier side is involved. Given the modest attacking firepower and average defensive records of both teams, the chance that the game produces four or more goals in regular time is low but not negligible.
+
+PROBABILITY: 0.18"
+KXNHLGAME-26NOV27COLMIN-COL,groq,openai/gpt-oss-120b,v1,2026-11-22T21:09:10Z,0.5800,"Colorado typically has a stronger roster and enjoys home‑ice advantage when listed first, while Minnesota is a solid but slightly less consistent team. Assuming no major injuries or unusual circumstances, a modest edge for Colorado of roughly 55‑60% seems reasonable.
+
+PROBABILITY: 0.58"
+KXHIGHCHI-26NOV23-B40.5,groq,openai/gpt-oss-120b,v1,2026-11-22T21:09:23Z,0.0500,"Chicago’s historical average high for late November is about 45 °F with a typical day‑to‑day spread of roughly ±8 °F (≈1 σ).  Assuming a roughly normal distribution, the probability density at 40.5 °F (the centre of the 40–41 °F band) is about 0.043 per degree, giving a chance of roughly 4–5 % that the day’s maximum will fall inside the 1‑degree interval.
+
+PROBABILITY: 0.05"
+KXNCAAFSPREAD-26NOV27FLAFSU-FLA7,groq,openai/gpt-oss-120b,v1,2026-11-22T21:09:36Z,0.5300,"Florida is usually the stronger program in the rivalry and, entering the game late in the season, will likely be favored by roughly a one‑touchdown spread (about 7 points). The betting market typically prices the “Florida – 6.5” line close to even, reflecting a modest edge for Florida but also the historical tendency for this game to be tighter than the spread suggests. Assuming a win probability for Florida of roughly 60 % and that about 80 % of its victories are by more than a touchdown, the overall chance of covering the –6.5 spread works out near 0.53.
+
+**PROBABILITY: 0.53**"
+KXNCAAFSPREAD-26NOV27WVUUTAH-UTAH21,groq,openai/gpt-oss-120b,v1,2026-11-22T21:09:50Z,0.2600,"Utah is typically a stronger program than West Virginia, especially when both are playing on a neutral or home field for Utah. Recent seasons have seen Utah win most match‑ups by double‑digit margins, but a spread of more than 20.5 points is still relatively rare; it usually requires Utah to dominate a mediocre WVU defense while WVU’s offense struggles. Accounting for normal game‑to‑game variance, injuries, and the fact that this is a non‑conference game late in the season, a modest‑high probability seems appropriate.
+
+PROBABILITY: 0.26"
+KXLOWTPHIL-26NOV23-T48,groq,openai/gpt-oss-120b,v1,2026-11-22T21:10:02Z,0.2800,"Philadelphia’s historical climate shows that November daily minimum temperatures average around 42 °F, with a typical spread of roughly ±8 °F. A low exceeding 48 °F is therefore about three‑quarters of a standard deviation above the mean, which corresponds to a roughly 22‑25 % chance under a normal‑approximation. Accounting for a modest recent warming trend (≈0.1 °F yr⁻¹) and the fact that a single day’s low can be influenced by short‑term weather patterns, a reasonable adjusted estimate is about a quarter to a third of the time.
+
+**Estimated probability:** ≈ 0.28
+
+PROBABILITY: 0.28"
+KXNCAAFTOTAL-26NOV28USCUCLA-46,groq,openai/gpt-oss-120b,v1,2026-11-22T21:10:15Z,0.6200,"The USC‑UCLA rivalry is usually a high‑energy, relatively high‑scoring contest, played in mild Los Angeles weather that rarely suppresses offense. Recent Pac‑12 match‑ups and past USC‑UCLA games have typically set total‑points over/unders in the 50‑55‑point range, indicating that a “over 45.5” outcome is slightly favored. While defensive battles and turnovers can keep scores down, the combination of offensive talent, rivalry intensity, and favorable conditions suggests the total points will exceed 45.5 more often than not—roughly a 60‑65 % chance.
+
+**PROBABILITY: 0.62**"
+KXLALIGAGAME-26DEC05BARRCC-BAR,groq,openai/gpt-oss-120b,v1,2026-11-22T21:10:28Z,0.6600,"Barcelona are currently a top‑four side with a strong home record and a potent attack, while Celta Vigo are fighting near the bottom of the table and have struggled away from home this season. Barcelona have only a couple of minor injuries among their rotating squad, and their head‑to‑head record over the last five meetings shows them winning three, drawing one and losing one. Celta’s recent form includes only one win in their last five league games. All things considered, Barcelona are clear favorites but the possibility of a draw or upset remains non‑trivial.
+
+PROBABILITY: 0.66"
+KXF1FP1FASTLAP-QATA26-VER,groq,openai/gpt-oss-120b,v1,2026-11-22T21:10:41Z,0.6800,"Max Verstappen has been the clear pace‑setter in recent seasons, and Red Bull’s power unit remains the class leader on high‑downforce, hot‑track layouts like Lusail. In the 2024 and 2025 Qatar GP weekends Red Bull routinely topped free‑practice, and Verstappen’s qualifying record at the circuit is also strong. The main challengers (Ferrari, Mercedes, Alpine) are capable of a surprise fast lap, especially if track‑temperature swings or sand‑blown conditions affect tyre performance, but the odds of a non‑Red Bull driver eclipsing Verstappen’s single‑lap speed in FP1 are modest. Considering driver form, car performance and typical practice behaviour, the chance that Verstappen records the fastest valid lap in FP1 is roughly two‑thirds.
+
+PROBABILITY: 0.68"
+KXERCOTWESTW-20NOV26-T35,groq,openai/gpt-oss-120b,v1,2026-11-22T21:10:54Z,0.4200,"The ERCOT West Hub price in late November typically sits near the transition between the lower‑summer/early‑fall regime (≈ $25‑$35/MWh) and the higher‑winter regime (≈ $35‑$45/MWh).  Recent years have shown that a cold snap in the first week of December can push the weekly average above $35, but in a “normal” November week the average usually stays just under that level.  Considering current natural‑gas price expectations, a still‑substantial wind contribution in West Texas, and the modest probability of an early cold snap or unexpected generation outage, the chance that the all‑hours average exceeds $35/MWh is slightly below 50 %.  
+
+**PROBABILITY: 0.42**"
+KXLIGAFTOTAL-26NOV23ESPVAL-3,groq,openai/gpt-oss-120b,v1,2026-11-22T21:11:08Z,0.5400,"Both teams are mid‑table in a league where matches typically average between 2.3 and 2.8 goals, giving a baseline chance of about 50‑55 % for an “over 2.5” result. Espanyol’s home advantage nudges the expected total up slightly, while Valencia’s moderate attack offsets it, leading to a modestly above‑average likelihood.
+
+**PROBABILITY: 0.54**"
+KXNCAAFSPREAD-26NOV28WASHORE-ORE14,groq,openai/gpt-oss-120b,v1,2026-11-22T21:11:21Z,0.2400,"Oregon and Washington are traditionally close Pac‑12 rivals, and a margin of more than 13.5 points is a sizable blowout. As of the week before the game, betting markets typically set the spread within ±7 points for this matchup, reflecting a fairly even contest. Even when Oregon is having a strong season, winning by 14+ points is relatively uncommon—historically occurring in roughly 20‑30 % of their meetings. Adjusting for the current season’s form (assuming Oregon is slightly favored but not overwhelmingly dominant) places the chance of a >13.5‑point victory in the low‑to‑mid‑20 % range.  
+
+**PROBABILITY: 0.24**"
+KXHIGHTNOLA-26NOV23-T70,groq,openai/gpt-oss-120b,v1,2026-11-22T21:11:34Z,0.4500,"Historical data shows New Orleans’ average high in late November hovers around 71 °F with a typical day‑to‑day spread of about ±7 °F. A threshold of 70 °F is therefore only slightly below the mean, giving a roughly 40‑50 % chance under normal conditions. Accounting for a modest warming trend and the usual variability, the best estimate is about a 45 % chance the temperature will be under 70 °F.
+
+PROBABILITY: 0.45"
+KXNFL1HFT-26NOV25GBLAR-TIEGB,groq,openai/gpt-oss-120b,v1,2026-11-22T21:11:47Z,0.0180,"A halftime tie in an NFL game is uncommon – roughly 2–4 % of matchups. If the teams are tied at the half, the contest essentially becomes a coin‑flip, with a modest home‑field edge for Green Bay (≈55 % chance of a win). Multiplying the chance of a tie by the conditional win probability gives about 0.03 × 0.55 ≈ 0.0165, i.e. roughly a 1–2 % chance that both conditions occur.
+
+PROBABILITY: 0.018"
+KXBRASILEIROTOTAL-26NOV29CFCFLA-6,groq,openai/gpt-oss-120b,v1,2026-11-22T21:11:59Z,0.0700,"Both Flamengo and Coritiba tend to play open, attacking football, and Flamengo in particular often scores multiple goals against lower‑ranked sides.  However, Brazilian Serie A matches average roughly 2.4–2.6 goals, and six‑goal games are still rare (well under 10 % of fixtures).  Even when Flamengo is dominant, the typical result against a team like Coritiba is 2–1, 3–1, or a 3–2 thriller.  The chance of a combined tally of six or more goals – requiring at least a 4‑2, 5‑1 or 6‑0 type scoreline – is therefore modest, perhaps a few percent higher than the league‑wide baseline because of Flamengo’s firepower.
+
+**Estimated probability:** about 7 %.
+
+PROBABILITY: 0.07"
+KXNCAAMBGAME-26NOV24BUPWAG-BUP,groq,openai/gpt-oss-120b,v1,2026-11-22T21:12:12Z,0.5800,"Bloomsburg is playing at home against a comparable mid‑major opponent. Both teams have similar overall records this season, but Bloomsburg enjoys a modest home‑court edge and a slightly better offensive efficiency. Assuming no major injuries or surprise line‑up changes, the home advantage pushes Bloomsburg’s win probability into the high‑50 % range.
+
+**PROBABILITY: 0.58**"
+KXHIGHTSATX-26NOV23-B63.5,groq,openai/gpt-oss-120b,v1,2026-11-22T21:12:26Z,0.0700,"San Antonio’s historical November highs average around 66 °F with a typical day‑to‑day spread of roughly 5–6 °F. Using a normal approximation, the chance that the maximum temperature falls in the narrow 1 °F window from 63 °F to 64 °F is on the order of a few percent (≈ 6 %‑7 %). Slight warming trends would shift the mean a degree higher, modestly lowering that probability, but overall the likelihood remains low.  
+
+PROBABILITY: 0.07"
+KXBULLETBRAWLTOP-26NOV28T5-YTAH,groq,openai/gpt-oss-20b,v1,2026-11-22T21:12:38Z,0.2000,"Yoseph Theolifus Taher’s chance of finishing in the top‑5 of a bullet‑brawl event scheduled for 2026‑11‑28 is highly uncertain due to limited publicly available data about the tournament’s field size, participant skill distribution, and Taher’s current form.  Assuming a typical bullet‑brawl of around 20–30 strong online players and treating Taher as a mid‑tier competitor, a rough, conservative estimate places his probability of a top‑5 finish at roughly 20 %.  
+
+PROBABILITY: 0.20"
+KXBUNDESLIGATOTAL-26NOV28PADSCH-4,groq,openai/gpt-oss-20b,v1,2026-11-22T21:12:43Z,0.2300,"The Bundesliga’s average goal output per match is around 2.6‑2.7. A result exceeding 3.5 goals is relatively uncommon; historically roughly one in five Bundesliga games hits that threshold. Given the typical attacking strength of Schalke and the more defensive posture historically associated with Paderborn, the match’s scoring profile would place it just above the league average, suggesting a probability somewhat below the league-wide average for 3.5+. A reasonable estimate, accounting for both teams’ recent form and expected defensive resilience, is about 23‑25%.
+
+PROBABILITY: 0.23"
+KXNHLGAME-26NOV27COLMIN-COL,groq,openai/gpt-oss-20b,v1,2026-11-22T21:12:48Z,0.5700,"Colorado has a slight edge due to its strong home record, recent roster upgrades, and the fact that the Wild’s recent performance has been somewhat inconsistent. With a projected 60‑65 % advantage for Colorado, the market resolves to Yes with a moderate probability.  
+
+PROBABILITY: 0.57"
+KXHIGHCHI-26NOV23-B40.5,groq,openai/gpt-oss-20b,v1,2026-11-22T21:12:53Z,0.0700,"The late‑November climate in Chicago typically has maximum temperatures ranging from the high 30s to the low 40s. Historical averages for Nov 23 show a mean max near 40.5 °F with a standard deviation of about 6–7 °F. Assuming a roughly normal distribution, the probability of the max falling within the 1‑degree window of 40–41 °F is roughly Φ(0.08) – Φ(–0.08) ≈ 0.06, i.e., around 6 %. Accounting for possible seasonal warming trends and measurement variability, a slightly higher estimate is reasonable.  
+
+**PROBABILITY: 0.07**"
+KXNCAAFSPREAD-26NOV27FLAFSU-FLA7,groq,openai/gpt-oss-20b,v1,2026-11-22T21:12:57Z,0.3000,"The market hinges on Florida defeating Florida State by more than 6.5 points in their rivalry game on November 27, 2026. Historically, Florida State has outperformed Florida in this matchup, often winning by an average margin of roughly 10–15 points. Florida’s 2026 roster is projected to be solid but not a clear favorite, and the game is expected to be close. Given the relative strength of the two programs, the likelihood that Florida not only beats Florida State but does so by more than a touchdown is modest. A reasonable estimate, balancing the rivalry’s competitive nature and Florida State’s advantage, is about one chance in three.
+
+PROBABILITY: 0.30"
+KXNCAAFSPREAD-26NOV27WVUUTAH-UTAH21,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:02Z,0.1300,"The Utah vs. West Virginia matchup is expected to be competitive, with Utah's offense historically strong but West Virginia’s defense capable of limiting high‑scoring games. A margin exceeding 20.5 points is a sizable gap that would likely require an unusually dominant performance from Utah or a particularly poor outing from West Virginia. Given these dynamics, the likelihood that Utah wins by more than 20.5 points is relatively low, but not negligible.
+
+PROBABILITY: 0.13"
+KXLOWTPHIL-26NOV23-T48,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:07Z,0.0400,"On Nov 23 the average minimum temperature in Philadelphia is around 30–35 °F, with 45 °F only a few days in unusually warm years. A minimum above 48 °F is very rare for that time of year, even during recent heat events. Given typical winter patterns and the lack of any long‑term warming trend that would push a November minimum so high, the odds of surpassing 48 °F are very small – on the order of a few percent.  
+
+PROBABILITY: 0.04"
+KXNCAAFTOTAL-26NOV28USCUCLA-46,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:11Z,0.6500,"USC and UCLA are both power‑house programs with offense‑heavy line‑ups and relatively weak defenses compared to the national average. Historically, their matchups have averaged between 55–70 total points. In recent seasons, the average combined score in USC–UCLA games has been about 58 points, with only one game below 45 points in the last 10 years. Given the expected offensive talent in 2026, the likelihood that the total score exceeds 45.5 points is fairly high.
+
+**PROBABILITY: 0.65**"
+KXLALIGAGAME-26DEC05BARRCC-BAR,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:16Z,0.7200,"Barcelona is a top-tier La Liga side with a historically strong squad, and Celta Vigo is usually a mid‑table team.  Assuming the match is played at Barcelona’s home stadium (or at a neutral venue but still in La Liga conditions), Barcelona’s odds of winning are typically around 70‑80 % for a regular fixture.  Recent squad depth, injury status, and fixture congestion in late November are modestly favorable to Barcelona, slightly reducing the win probability from a very high baseline.  A conservative estimate therefore places the likelihood of a Barcelona win around 0.72, reflecting strong form, home advantage, and the relative weakness of the opposition.
+
+PROBABILITY: 0.72"
+KXF1FP1FASTLAP-QATA26-VER,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:21Z,0.6500,"Max Verstappen’s Red‑Bull car has historically dominated the fastest‑lap battles in Qatar’s high‑speed, long‑straight FP1 sessions, with the driver setting the quickest times in 2023 and earlier years.  In 2026 the Red‑Bull engine and aerodynamic package are expected to remain superior to rivals, and the track’s long straights and few heavy braking zones should play to Red‑Bull’s strengths.  While Mercedes, Ferrari, and other teams will push hard, the margin is typically small and the likelihood of a Red‑Bull driver winning the fastest lap in FP1 is high – roughly 60‑70%.  Accounting for the risk of a mechanical glitch or a one‑off faster lap from a rival, a realistic estimate for the market resolving YES is about 65%.
+
+PROBABILITY: 0.65"
+KXERCOTWESTW-20NOV26-T35,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:25Z,0.9300,"The ERCOT West Hub average price in late November typically runs well above $35 MWh, especially during cold‑weather weeks when demand spikes and renewable output can be lower. Historically, over the past several years the average real‑time price for winter weeks has exceeded $35 MWh about 90–95 % of the time. With the market set to resolve on November 27, 2026—still within the typical cold‑weather period—and assuming no extraordinary supply disruptions or unusually mild weather, the odds that the week‑average price will surpass the $35 MWh threshold are very high.  
+
+PROBABILITY: 0.93"
+KXLIGAFTOTAL-26NOV23ESPVAL-3,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:31Z,0.4800,"The average Spanish Liga F match today scores about 2.5–2.7 goals, giving roughly a 45–50 % chance of ≥ 3 goals under a Poisson model.  
+Espanyol vs Valencia typically sees a slightly higher goal output than the league average because Valencia’s attack is more potent than Espanyol’s defence.  
+Thus the odds of over 2.5 goals in this fixture are close to the upper bound of the Poisson estimate, around 48 %.  
+
+PROBABILITY: 0.48"
+KXNCAAFSPREAD-26NOV28WASHORE-ORE14,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:35Z,0.3000,"The Oregon vs. Washington matchup is historically close, and the 13.5‑point over/under is above the typical spread for this rivalry. Recent seasons show Oregon winning by 10–20 points in most games, with a few outliers beyond 13.5 points. Considering team form, injury reports, and the fact that Washington is usually competitive, a conservative estimate puts the chance that Oregon will win by more than 13.5 points around 30 %.  
+
+PROBABILITY: 0.30"
+KXHIGHTNOLA-26NOV23-T70,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:40Z,0.1500,"The average high for New Orleans on Nov 23 is roughly 73 °F, with a typical spread of about 3–4 °F.  A temperature below 70 °F would therefore be roughly one‑to‑one‑half a standard deviation below the mean, corresponding to a probability on the order of 15‑20 %.  Given recent slight warming trends and the usual variability of late‑fall weather, the chance that the maximum drops below 70 °F is modest but non‑trivial.
+
+PROBABILITY: 0.15"
+KXNFL1HFT-26NOV25GBLAR-TIEGB,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:45Z,0.0010,"The chance that the game will reach a tie at the end of the first half is very small – historically fewer than 0.5 % of NFL games are tied at that point.  Even if a tie does occur, Green Bay would have roughly a 50 % chance of ultimately winning the game if the teams are of comparable strength.  Multiplying these factors gives a probability on the order of 0.002–0.003, i.e., about 0.2 % to 0.3 %.  Given the lack of any special circumstances that would dramatically alter these odds, a conservative estimate is around 0.1 %.
+
+PROBABILITY: 0.001"
+KXBRASILEIROTOTAL-26NOV29CFCFLA-6,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:49Z,0.0700,"The match is a typical Brazilian Serie A fixture where the combined average score is about 2.5–3 goals. Using a Poisson model for total goals with λ≈3, the chance of 6 or more goals is roughly 8 %. The actual teams (Flamengo, a strong offensive side, and Coritiba, a mid‑table side) do not dramatically raise the goal expectancy beyond this. Thus, a reasonable estimate for the market to resolve “YES” is on the order of a few percent.
+
+PROBABILITY: 0.07"
+KXNCAAMBGAME-26NOV24BUPWAG-BUP,groq,openai/gpt-oss-20b,v1,2026-11-22T21:13:54Z,0.0400,"Bloomsburg is a Division II program, while Wagner is a Division I MAAC team. In the early‑season non‑conference schedule, Division I teams almost always win these matchups, and the only time a Division II team pulls off an upset is very rare (typically 1–3 % of such games). Given this division gap and the likely home‑court advantage for Wagner, the odds that Bloomsburg pulls off a win are quite low. I estimate the probability of a Bloomsburg victory at roughly 4 %.
+
+PROBABILITY: 0.04"
+KXHIGHTSATX-26NOV23-B63.5,groq,openai/gpt-oss-20b,v1,2026-11-22T21:14:00Z,0.0200,"The average high in San Antonio in November is about 75 °F with a spread of roughly 6 °F. A maximum of 63–64 °F falls about 2 σ below the mean, and the 1‑degree window is very narrow, making it a relatively rare outcome. Historical climatology suggests a probability on the order of 1–2 %.  
+
+PROBABILITY: 0.02"
+KXBULLETBRAWLTOP-26NOV28T5-YTAH,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:14:05Z,0.0300,"mixed-field tournament, a mid-level player has a low chance of outperforming all top-rated visitors or bots (if any) and other strong amateurs to land in the top 5.
+    *   Even in smaller, more exclusive tournaments (e.g., $N=20$), where base rate is $25\%$, the variance is high, and without evidence of him being an elite favorite, the probability remains moderate at best. However, ""Brawl"" implies a larger, more open format.
+    *   Prediction markets for specific lower/mid-tier players finishing top 5 in large digital tournaments typically trade at very low prices, often between 1% and 5%, reflecting the long odds.
+    *   Given the date is in the future (2026) and no specific reputation boost is indicated for this individual in the prompt context, we should lean towards the lower end of the scale for a generic ""strong amateur"" in a potentially large event.
+
+    Let's assume a standard large online bullet event with roughly 100–300 participants.
+    *   Scenario A: 100 players. A strong amateur has a slight edge, maybe 5-10% chance.
+    *   Scenario B: 500 players. Chance drops to ~1-2%.
+    *   Scenario C: It is a specific niche event with fewer players (e.g., 50). Chance rises to ~10-15%.
+
+    Given the ambiguity, a conservative estimate for a non-elite player in a top-5 finish is usually around **2% to 5%**. Let's settle on **3%** as a balanced estimate, assuming a moderate tournament size and that the player is competent but not a guaranteed favorite.
+
+PROBABILITY: 0.03"
+KXBUNDESLIGATOTAL-26NOV28PADSCH-4,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:14:22Z,0.4500,"not typically ""high-scoring giants"" like Bayern Munich or Leverkusen.
+
+4.  **Statistical Baseline**:
+    *   In top-flight German football, the distribution of goals is such that 0-2 goals occur in roughly 50-55% of games, 3 goals in about 20%, and 4+ goals in about 25-30%.
+    *   ""Over 3.5"" requires 4 or more goals.
+    *   For mid-table or lower-table matchups, the over 3.5 probability is often slightly below the league average if the teams are defensively organized, or slightly above if defenses are poor.
+    *   Given that both teams are likely not elite defensive units, but also not the highest-scoring teams in the league, a baseline of the league average is appropriate.
+    *   League average for Over 3.5 is approximately 42-45%.
+
+5.  **Adjustment**:
+    *   Schalke away games tend to be lower scoring than their home games.
+    *   Paderborn home games can see more goals if they are playing for points.
+    *   Without specific 2026 form data, we rely on the structural tendency of these specific clubs. They are rarely involved in high-scoring blowouts (6+ goals) but frequently produce 3-4 goal games.
+    *   The threshold of 4 goals is significant. In a typical Bundesliga game, the chance of seeing 4+ goals is rarely above 50% unless it involves two very attack-heavy teams.
+
+Therefore, the probability is likely in the range of 40% to 48%. A reasonable estimate centered on the league average for a matchup between these two specific clubs is around 45%.
+
+PROBABILITY: 0.45"
+KXHIGHCHI-26NOV23-B40.5,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:15:36Z,,"Chicago has been warming. The mean might be slightly higher, perhaps 42°F.
+        *   If $\mu = 42$ and we want $[40, 41]$:
+            *   $Z_1 = (40-42)/5.5 = -0.36$
+            *   $Z_2 = (41-42)/5.5 = -0.18$
+            *   $P(-0.36 \le Z \le -0.18) \approx 0.4285 - 0.3594 = 0.069$ (6.9%).
+        *   If the bin is actually [39.5, 41.5) (Integers 40 and 41):
+            *   $\mu=42, \sigma=5.5$.
+            *   $Z_1 = (39.5-42)/5.5 = -0.45$
+            *   $Z_2 = (41.5-42)/5.5 = -0.09$
+            *   $P(-0.45 \le Z \le -0.09) \approx 0.464 - 0.421 = 0.043$ (4.3%).
+
+        *   Let's reconsider the mean. Is it 41 or 42?
+        *   1981-2010 Normals for Nov 23: Mean High ~41.4°F.
+        *   1991-2020 Normals for Nov 23: Mean High ~41.8°F.
+        *   So mean is closer to 42°F.
+        *   Standard deviation for daily highs in Chicago is often cited around 5-6°F.
+        *   If the market implies the integer values 40 AND 41 (a 2-degree span centered at 40.5), the probability is higher.
+        *   ""Between 40-41"" is ambiguous. Does it mean $40 < T < 41$? Or $40 \le T \le 41$?
+        *   Usually, ""40-41"" in a discrete market context means the outcome is either 40 or 41. If the resolution source uses whole numbers, ""40-41"" would mean the recorded value is 40 or 41.
+        *   If the recorded value is an integer:
+            *   Range of values: 40, 41.
+            *   Effective continuous range: [39.5, 41.5).
+            *   Center: 40.5.
+            *   Mean (41.8) is "
+KXNCAAFSPREAD-26NOV27WVUUTAH-UTAH21,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:16:44Z,0.2800,"ly capping the margin of victory if the home team puts up a fight.
+
+4.  **Probability Estimation:**
+    *   If the implied spread is around -14 to -17 (a realistic estimate for a Utah-WVU matchup in a standard season), the probability of covering a 20.5-point spread is generally lower than the probability of winning outright.
+    *   In betting markets, the probability of a team winning by a specific large margin (like 21+) is often in the 20-35% range for strong favorites.
+    *   Let's assume the expected margin of victory (EMV) for Utah is around 13-15 points.
+    *   If EMV = 14, and the standard deviation of margins in college football is roughly 10-12 points, we can approximate the probability using the normal distribution.
+    *   $Z = (20.5 - 14) / 11 \approx 0.59$.
+    *   The probability of $Z > 0.59$ is approximately 27-28%.
+    *   If the EMV is slightly higher (e.g., 16 points, a strong mismatch), $Z = (20.5 - 16) / 11 \approx 0.41$. Probability of $Z > 0.41$ is roughly 33%.
+    *   If the EMV is lower (e.g., 12 points, closer match), $Z = (20.5 - 12) / 11 \approx 0.77$. Probability is roughly 22%.
+
+    Given Utah's defensive reputation and WVU's historical struggles against elite defenses, a 21+ point loss is a realistic but not dominant outcome. It is more likely they win by a ""comfortable"" (10-20 points) margin than a ""blowout"" (25+ points) margin. Therefore, the probability sits in the lower 20s to mid-30s. A safe estimate is around 25-30%.
+
+PROBABILITY: 0.28"
+KXNCAAFTOTAL-26NOV28USCUCLA-46,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:17:51Z,0.7200," 24-21, 21-21, 24-18, 21-18, etc.
+    *   For the game to resolve **YES**, the score must be 46 or higher. This includes scores like 27-21 (48), 31-21 (52), 35-24 (59), etc.
+3.  **Distribution of Scores:**
+    *   Most college football games are not extremely low-scoring affairs anymore. According to statistical data from the last few seasons, roughly 50-60% of games exceed a total of 45 points.
+    *   USC and UCLA are typically mid-to-upper tier offensive teams. Even in a defensive struggle, blowing off lead or field goal reliability often pushes the score over 45.
+    *   In the 2023-2025 timeframe, the median total points in Big Ten/Pac-12 level games was often above 50.
+4.  **Specific Factors:**
+    *   If the weather is bad (rain/cold), scoring might drop, but 45.5 is still a low bar.
+    *   Even in historically ""defense wins championships"" scenarios, a 3-0 game is rare in modern passing-heavy college football. A 28-14 game (42 pts) is a more plausible low-end outcome, but any touchback difference, a short field goal, or a single extra scoring play pushes it over 45.5.
+    *   Therefore, the threshold is quite low. It is more likely than not that the teams will combine for more than 45 points.
+
+Given that the average college football game total is significantly higher than 45.5 (often closer to 52-55), and this game involves two likely competitive teams, the probability of exceeding 45.5 points is high. I estimate the probability to be around 70-75%.
+
+PROBABILITY: 0.72"
+KXF1FP1FASTLAP-QATA26-VER,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:18:59Z,0.1700," a strong field, his probability of taking the absolute fastest lap in a *single* practice session is typically in the 10-15% range for an *average* season.
+    *   However, the 2026 season start (or near finish, as Nov 27 is late in the season) might see less experimentation than the start of the season, but more car evolution.
+    *   Let's refine. Top teams: Red Bull, McLaren, Ferrari, Mercedes. That's 8-10 cars competing for the top spot.
+    *   If we assume 4 primary contenders for the session pole (Verstappen, Norris, Hamilton, Russell/Sainz), it's a 4-way struggle.
+    *   P(Verstappen is fastest) ≈ 1/4 = 25%? No, because teams don't always push for the absolute fastest lap in FP1 if they have other data to collect. But the market resolution depends on the *recorded* time.
+    *   Usually, the lead in FP1 is taken by one of the top 3 constructors. If Verstappen is in a top 3 car, he is a strong favorite to be at the front.
+    *   Let's assign a base probability of 12-18% for a top-tier driver to take FP1 fastest lap against a full grid. Verstappen is arguably the most consistent time-setter.
+    *   Let's say 15%.
+
+    Considering the volatility of 2026 new regulations and the specific session (FP1, often less ""pole sitter"" focused than Qualifying, but still competitive), a probability in the mid-single digits to low-teens is appropriate. Given his status as a multi-time champion and likely top performer, 16-18% seems reasonable. Let's go with 17%.
+
+PROBABILITY: 0.17"
+KXNCAAFSPREAD-26NOV28WASHORE-ORE14,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:20:57Z,0.2500," 25-30% of the time.
+*   **Current Context (2026):** Without specific 2026 roster data, we rely on historical trends. Oregon has had elite defenses and offenses. However, a 14+ point blowout is not the norm for this specific rivalry unless one team is significantly downgraded.
+*   **Base Rate:** The base rate for a college football favorite winning by more than 14 points is relatively low, usually around 20-30% for a modest favorite and higher (45-55%) for a massive favorite (15+ points). Given that top-tier programs rarely lay 15+ points against a fellow Top-25 rival, it is probable the implied spread is lower.
+*   **Conservative Estimate:** Assuming Oregon is the favorite (as they have been in recent cycles), but not a dominant blowout favorite, the likelihood of a +14 margin is likely in the 20-30% range. If Washington is at home and competitive, this number drops even lower.
+
+Let's assume Oregon is a modest favorite (-6 to -10).
+*   Probability of Oregon winning: ~65-70%.
+*   Conditional probability of winning by >13.5 given a win: ~40-50% for a moderate favorite.
+*   Combined: $0.65 \times 0.45 \approx 0.29$.
+
+If the market is implying a very close game (spread < 5), the probability drops to ~15-20%.
+If the market implies a heavy favorite (spread > 10), the probability rises to ~40-50%.
+
+Given the volatility of CFB and the rivalry nature, a ""medium"" estimate is appropriate. A margin of 13.5 is a high bar. I will estimate the probability at roughly 25%.
+
+PROBABILITY: 0.25"
+KXNFL1HFT-26NOV25GBLAR-TIEGB,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:22:04Z,0.1500,"ams are often close in power.
+-   Home/Away context: The game is ""Green Bay vs Los Angeles R"". Usually listed as Home away. If listed as ""Green Bay vs Los Angeles R"", Green Bay is typically the home team. Green Bay at home (Lambea) has a significant advantage.
+-   A projected probability for Green Bay to win a same-conference rivalry-style game at home might be around **55% - 60%**. Let's estimate **0.55**.
+
+**Step 3: Combining the Probabilities**
+The event is: (Tie in 1st Half) AND (Green Bay Wins).
+Since the 1st half result influences who is winning in the 2nd half, these are not strictly independent.
+-   If they are tied in the 1st half, the game is effectively a ""full game"" to be played in the 2nd half/3rd/4th quarters.
+-   The probability of Green Bay winning *given* they are tied in the 1st half is roughly their overall win probability, perhaps slightly adjusted for momentum, but generally stable around their baseline win chance.
+-   Therefore, $P(\text{Yes}) \approx P(\text{Tie 1st Half}) \times P(\text{Green Bay Wins})$.
+
+Calculation:
+$0.28 \times 0.55 \approx 0.154$
+
+Let's refine the inputs:
+-   If GB is favored at home, their win prob might be higher, say 0.60.
+-   The tie probability might be slightly lower if both teams are high-power offenses (more likely to score than not), but 0-0 or 7-7 remains common. Let's stick with 0.25-0.30.
+-   Range: $0.25 \times 0.55 = 0.1375$ to $0.30 \times 0.60 = 0.18$.
+
+A central estimate would be around **15%**.
+
+PROBABILITY: 0.15"
+KXNCAAMBGAME-26NOV24BUPWAG-BUP,groq,qwen/qwen3.8-27b,v1,2026-11-22T21:23:15Z,0.0300," D1/EPCon team like Bloomsburg and a larger D1 team like Wagner are almost never close. The talent gap is usually substantial.
+    *   Unless Wagner is playing an exceptionally weak schedule or is in a period of severe transition, they are heavy favorites.
+    *   Looking at recent performance trends (2023-2025), Wagner has maintained a competent D1 level of play, while Bloomsburg has struggled to compete with higher-tier opponents. Even in non-conference games, the disparity in resources usually dictates the outcome.
+
+3.  **Probability Assessment:**
+    *   In college basketball, underdogs of this magnitude (small D1 vs. mid/lower D1) typically have win probabilities below 5-10%.
+    *   If Bloomsburg is considered a slightly smaller D1 program (EPCon is now D1), the gap is still significant. If they are treated as D2 equivalent in competitive stature, the gap is even wider.
+    *   A standard line for such a mismatch might be Wagner by 20+ points. In betting markets, a team favored by 20+ points has approximately a 1-3% chance of winning outright.
+    *   However, ""upsets"" do happen. Assuming no major injuries or scandals not reflected in the generic prompt, the base rate for the weaker team in such a stark mismatch is very low.
+    *   Let's assign a probability. The chance of Bloomsburg winning is very small. A reasonable estimate for a clear underdog in this context is between 0.02 and 0.05. Given the consistent tier difference, 0.03 seems appropriate.
+
+PROBABILITY: 0.03"
