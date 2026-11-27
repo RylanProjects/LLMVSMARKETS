@@ -3484,3 +3484,357 @@ Total probability seems to be in the range of 20-25%. College football favorites
 Therefore, the probability is likely between 20% and 25%.
 
 PROBABILITY: 0.22"
+KXNBATOTAL-26NOV27ATLBOS-223,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:05Z,0.5300,"To estimate the probability that the Atlanta vs. Boston pro basketball game exceeds 222.5 total points, we consider typical NBA scoring averages and team characteristics as of the 2026-2027 season. 
+
+The modern NBA game features high-paced play and prolific three-point shooting, making the league-wide average total points typically hover around 225 to 230 points. A line of 222.5 is slightly below the current league mean, reflecting standard odds for a matchup where both teams have average-to-above-average offensive capabilities. Historically, matchups between Atlanta and Boston often feature high offensive output given their roster compositions. 
+
+Given a standard NBA total points baseline around 225, a line of 222.5 implies a probability slightly higher than a coin flip (around 52% to 54%) for the ""Over"" to hit, depending on specific injuries and pace metrics on game day. 
+
+PROBABILITY: 0.53"
+KXNFLFFPTS-26NOV29BALHOU-BALMANDREWS89-8,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:11Z,0.5500,"To estimate the probability that Mark Andrews records over 8 fantasy points (typically in standard PPR scoring, though standard definitions usually apply to these platforms) in the Baltimore vs. Houston game on November 29, 2026, we consider his typical role and performance profile as a tight end for the Baltimore Ravens. 
+
+Mark Andrews is a key component of the Ravens' passing game, frequently serving as a primary red-zone target. For a starting tight end of his caliber, an 8-point threshold in PPR is relatively modest—requiring roughly 3-4 receptions for 30-40 yards, or a single touchdown. Given his high target share and usage in the Baltimore offense, the probability of exceeding this line in any given game is generally higher than a coin flip, barring injury or a heavily run-skewed script. Factoring in typical tight end variance and matchup considerations against Houston, a realistic estimate for him clearing 8 fantasy points is around 55%.
+
+PROBABILITY: 0.55"
+KXLOWTHOU-26NOV27-B38.5,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:17Z,0.0800,"To estimate the probability that the minimum temperature in Houston (CLIHOU) on November 27, 2026, will be between 38°F and 39°F, we consider standard late-fall climatology for Houston, Texas, and the typical uncertainty of weather forecasts one day out. 
+
+Late November in Houston usually brings mild to cool conditions, with average low temperatures typically in the low to mid-50s (°F), though cold fronts can occasionally push morning lows down into the 30s or 40s. A precise range of exactly two degrees (38-39°F) represents a very narrow slice of possible outcomes. Even with short-range meteorological forecasts available just 24 hours in advance, predicting an exact two-degree temperature bracket on a specific day carries high intrinsic uncertainty due to variables like cloud cover, wind speeds, and frontal timing. 
+
+Given the narrow target window and typical forecast variance, the probability of hitting this specific two-degree range is low, consistent with similar precise weather prediction market bins.
+
+PROBABILITY: 0.08"
+KXNBASPREAD-26NOV27DALPHX-PHX3,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:23Z,0.4200,"To evaluate the probability that Phoenix wins by over 2.5 points against Dallas in this hypothetical late-November 2026 NBA matchup, we can look at standard baselines for NBA game spreads and outcomes. 
+
+In a typical regular-season NBA game between two competitive teams, point spreads are often close to pick-'em or within a few points either way. A margin of over 2.5 points (i.e., a win by 3 or more points) represents a fairly standard outcome, but requires covering a small spread. Assuming the game is priced close to even, the probability of a specific team winning by more than 2.5 points is roughly equivalent to their standard win probability minus the small probability of winning by exactly 1 or 2 points, or roughly 40% to 45% depending on who is favored. Without a specific live betting line available for this simulated future date, we default to near coin-flip odds adjusted for a small margin requirement.
+
+PROBABILITY: 0.42"
+KXBIGGESTQUAKE-27NOV26-7.0,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:29Z,0.0400,"To estimate the probability of a magnitude 7.0 or higher earthquake occurring worldwide on a single specific day (Nov 27, 2026), we look at historical seismicity rates. 
+
+Globally, earthquakes of magnitude 7.0 to 7.9 typically occur about 10 to 20 times per year. This averages out to roughly one M7.0+ earthquake every 18 to 36 days. Therefore, the daily probability of a magnitude 7.0 or greater earthquake anywhere on Earth is generally around 3% to 6%. 
+
+Considering standard seismic activity rates and statistical distribution (Poisson process), the chance of at least one earthquake of magnitude 7.0 or greater occurring on any given calendar day is approximately 4%.
+
+PROBABILITY: 0.04"
+KXNBATOTAL-26NOV27PHIIND-235,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:35Z,0.4800,"To estimate the probability of the over/under market for an NBA game, we can look at historical league averages and team pacing. 
+
+As of recent seasons, the NBA average total points per game hovers around 225 to 230 points, making 234.5 points a moderately high threshold that requires an above-average offensive output or fast-paced play. While specific player availability and matchup dynamics for the 2026-11-27 Philadelphia vs. Indiana game are unknown far in advance, standard NBA totals set in the mid-230s typically imply roughly a 45% to 50% chance of hitting the ""Over"" depending on the specific teams' defensive and offensive ratings at the time. Without specific extreme pacing data to push it far one way or the other, a standard slight underdog pricing for an over above the league average applies.
+
+PROBABILITY: 0.48"
+KXNCAAMBSPREAD-26NOV27NENW-NW13,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:42Z,0.4800,"To estimate the probability of this market, we must consider the matchup between the Northwestern Wildcats and the Northeastern Huskies in men's college basketball. 
+
+Northwestern is a Big Ten program that generally ranks significantly higher in KenPom and NET metrics compared to Northeastern, a CAA program. Playing at home (assuming standard scheduling), Northwestern would typically be heavily favored against Northeastern, often by around 10 to 15 points depending on the specific roster strengths in the 2026-27 season. 
+
+A point spread of 12.5 is large, meaning the market implies Northwestern is roughly a 12.5-point favorite. In college basketball, a favorite in this range covers the spread approximately 50% of the time. However, because this is an early-season non-conference game where variance can be high and blowouts are common for power-conference teams against mid-majors at home, a slight edge might exist, but 12.5 remains a sharp line reflecting a close to 50/50 probability of covering. 
+
+Weighing the typical power-conference advantage against a mid-opponent at home versus the difficulty of winning by 13+ points, the probability is centered near standard coin-flip odds for a spread bet.
+
+PROBABILITY: 0.48"
+KXNFLREC-26NOV29BALHOU-HOUTDELL1-3,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:48Z,0.7500,"To determine the probability that Tank Dell records 3 or more receptions in the Baltimore vs. Houston game on November 29, 2026, we look at his typical role and performance in the Houston Texans' offense. 
+
+Tank Dell is a key wide receiver for Houston. When healthy, his target share and explosive route running routinely make 3 receptions a very achievable baseline (he frequently averages 4–6+ catches per game when active). Barring injury or an extreme game script heavily favoring the run game, a dynamic slot/perimeter threat like Dell is heavily favored to clear a modest 3-reception threshold. 
+
+Taking into account standard NFL variance and injury risk between now and game day, a realistic probability is around 75%.
+
+PROBABILITY: 0.75"
+KXLOWTOKC-26NOV27-B25.5,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:55:54Z,0.1200,"To estimate the probability for this weather market, we consider typical late-November climatology for Oklahoma City, current medium-range forecasting uncertainty for a date roughly 24 hours out, and the specific 2-degree bracket (25°F to 26°F) required for a YES resolution.
+
+1. **Climatology:** Late November in Oklahoma City typically sees average daily lows in the mid-to-high 30s (°F), but nighttime lows frequently dip into the 20s during cold fronts or clear, calm late-autumn nights. 
+2. **Precision of a 2-degree bucket:** Forecasting the exact minimum temperature to fall within a specific 2-degree integer range (25°F or 26°F) a day in advance is notoriously difficult due to micro-meteorological variations, cloud cover timing, and model noise. Even if the forecast trends toward the upper 20s or mid 20s, hitting this exact narrow window carries high intrinsic volatility.
+3. **Probability assignment:** Given the standard error in numerical weather prediction models for exact minimum temperatures at a specific station (CLIOKC), landing on precisely 25°F or 26°F is a low-probability event compared to the broader distribution of possible low temperatures (e.g., anywhere from 20°F to 35°F). Based on these factors, the probability is relatively low.
+
+PROBABILITY: 0.12"
+KXNBATOTAL-26NOV27DENUTA-229,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:00Z,0.4900,"To estimate the probability that the Denver vs. Utah pro basketball game on November 27, 2026, features over 228.5 total points, we look at historical and league-wide scoring averages for these teams. In recent NBA seasons, the league average for total game points typically hovers around 225 to 230 points, depending on the specific pacing and defensive ratings of the current season. 
+
+Denver typically features an elite, high-efficiency offense coupled with average defense, while Utah's pacing and defensive metrics can vary, but they often play in up-tempo games. A line of 228.5 is right around the median expectation for a standard modern NBA game involving these franchises. Assuming standard health and normal variance, the probability of going over this baseline total is close to a coin flip, historically sitting right near 48% to 52% depending on the specific bookmaker's pricing. Given a standard market line, we estimate it slightly below 50% due to the juice, but close enough to treat as a balanced probability.
+
+PROBABILITY: 0.49"
+KXNCAAMBSPREAD-26NOV27DRKEBSU-BSU7,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:07Z,0.4200,"ate in men's college basketball. 
+
+Boise State is typically a strong program in the Mountain West Conference, often starting seasons ranked or competitive in the mid-major/at-large NCAA tournament picture. Drake is also a historically competitive program in the Missouri Valley Conference, frequently capable of challenging strong opponents. 
+
+However, since this game is scheduled around late November (often part of an early-season multi-team event or tournament), early-season variance can be high. A 6.5-point spread in college basketball represents a modest favorite (roughly a 3-to-4 point possession game in terms of expectation, translated into a spread where Boise State is favored by between 5 and 8 points depending on the neutral-site or home-court location). 
+
+Without precise current-season power ratings for November 2026 (as we are projecting slightly ahead or relying on historical baselines for these programs), setting a spread around -6.5 for Boise State implies they are expected to win by roughly 6 to 7 points. In such evenly matched games, the probability of winning by *over* 6.5 points is roughly tied to the standard distribution of college basketball outcomes around a favorite's expected margin, typically landing close to a coin flip conditional on them winning, or around 40-45% overall depending on the exact point spread set by oddsmakers. Factoring in a standard favorite probability of covering a -6.5 spread, we arrive at a probability near 42%.
+
+PROBABILITY: 0.42"
+KXRAINMIAM-26NOV-18,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:13Z,0.0100,"To estimate the probability that the total precipitation at the Miami climate station (CLIMIA) in November 2026 exceeds 18 inches, we look at historical climate data for Miami. 
+
+November is typically the end of the wet season / transition into the dry season in Miami. Normal November rainfall is usually around 2 to 3 inches. Extreme monthly rainfall totals exceeding 18 inches are exceedingly rare in Miami for the month of November, as such amounts are usually associated with direct hits from slow-moving major hurricanes or rare, persistent atmospheric systems (heavy rainfall events of this magnitude are more common during the peak of the hurricane season in September or October). 
+
+Given that November 2026 has already elapsed up to the current date of November 26, 2026, and no unprecedented, historic multi-inch daily deluge has been recorded that pushed the monthly total anywhere near 18 inches (which would break historical November rainfall records by a wide margin), the probability of reaching this threshold is extremely low.
+
+PROBABILITY: 0.01"
+KXMEASLES-26-7500,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:20Z,0.9500,"ing on vaccination coverage rates, conflict, and disruptions to healthcare systems (such as those seen during and after the COVID-19 pandemic). Globally, annual measles cases routinely number in the hundreds of thousands, meaning a global threshold of 7,500 would be trivially surpassed. 
+
+However, if this market refers to the United States specifically (as is common in many U.S.-centric prediction markets), the context involves post-pandemic immunity gaps and recent outbreaks. In recent years, U.S. cases have been much lower (typically ranging from dozens to a few hundred per year, though major outbreaks like the 2014 or 2019 events reached around 650 to 1,250 cases). Even during severe outbreak years, the U.S. rarely exceeds a few thousand cases, and 7,500 would require a massive, unprecedented nationwide epidemic. 
+
+Given that the prompt does not specify a geography, standard interpretation of such open-ended prediction markets usually defaults to global data unless specified, or the market reflects a specific jurisdiction. Assuming a global metric, the count is virtually guaranteed to exceed 7,500 (often numbering in the hundreds of thousands globally). Even if interpreted strictly as the U.S., while unlikely, unexpected widespread drops in MMR vaccine coverage leave a tail risk. Weighing the near-certainty globally against a very low U.S. probability, standard resolution for these types of broader health tracking markets heavily favors the global total.
+
+PROBABILITY: 0.95"
+KXNCAAMBTOTAL-26NOV27CINBC-143,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:26Z,0.5000,"To estimate the probability of the Cincinnati vs. Boston College men's college basketball game going over 142.5 total points, we look at typical scoring trends in modern college basketball and the profiles of these programs. 
+
+College basketball totals average around 140-145 points nationally, with a median often sitting right near 140-145 depending on the year's rule interpretations and officiating trends. Major conference matchups or high-major tournament games often feature competitive play, but Cincinnati is traditionally known for a strong defensive identity under Wes Miller, while Boston College games can vary. However, an over/under line of 142.5 is right around the market consensus for an average-paced game between two solid power-conference opponents. Given the standard deviation of game scores, a line of 142.5 represents a close to 50/50 coin flip, with a slight lean depending on the specific tempo and offensive efficiencies of the 2026-27 rosters. Assuming typical power-conference pacing, the probability of clearing 142.5 points is close to a standard coin flip, historically hovering around 48% to 52%.
+
+PROBABILITY: 0.50"
+KXHIGHTHOU-26NOV27-B64.5,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:33Z,0.1800,"To estimate the probability that the maximum temperature in Houston (CLIHOU) on November 27, 2026, will be between 64°F and 65°F, we consider historical climatology for late November in Houston, Texas, along with the typical variance of temperature forecasts.
+
+In late November, Houston's average high temperatures are typically in the upper 60s to around 70°F, but cooler fronts can easily push daytime highs into the mid-60s. A two-degree bin (64-65°F) represents a narrow range, which inherently limits the probability given standard forecasting uncertainty days in advance. Typically, for any specific narrow two-degree temperature band at a lead time of one day, the climatological and meteorological probability rarely exceeds 15-25% unless there is a very high-confidence, stable weather pattern locked in. 
+
+Given the lack of real-time meteorological data for a date in late 2026 and the inherent volatility of weather within a narrow 2-degree range, we default to a baseline probability reflecting the odds of hitting this specific slice of the temperature distribution.
+
+PROBABILITY: 0.18"
+KXNCAAMBSPREAD-26NOV27MOSUORU-ORU3,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:39Z,0.4200,"To estimate the probability of Oral Roberts winning by over 2.5 points against Missouri State in men's college basketball on November 27, 2026:
+
+1. **Matchup Context**: This is a standard early-season non-conference college basketball matchup between Missouri State and Oral Roberts. 
+2. **Point Spread**: A line of 2.5 points represents roughly a 1-to-2 point favorite in standard college basketball point spreads, effectively meaning the market expects a close game where Oral Roberts is either a slight favorite or a slight underdog. 
+3. **Base Rates**: In general, early-season matchups between mid-major programs like Missouri State and Oral Roberts are close to toss-ups (around 50% win probability for either side, with a slight adjustment depending on home-court advantage, roster continuity, and power ratings). 
+4. **Conclusion**: Given the lack of heavily skewed talent disparity and the 2.5-point margin required (meaning they must win outright by at least 3 points), the probability is roughly close to standard coin-flip odds for the spread, tempered slightly by the requirement to cover rather than just win. We estimate this at around 42%.
+
+PROBABILITY: 0.42"
+KXHIGHDEN-26NOV27-T65,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:45Z,0.1500,"To estimate the probability that the maximum temperature in Denver (CLIDEN) exceeds 65°F on November 27, 2026:
+
+1. **Climatology for Denver in late November:** Denver's average high temperature in late November is typically in the mid-to-upper 40s to around 50°F. 
+2. **Probability of extremes:** While late-autumn and winter temperature spikes can occur in Denver due to Chinook winds or unseasonably warm air masses, reaching above 65°F is significantly warmer than average (roughly 15 to 20 degrees above normal). 
+3. **Current forecast limitations:** Since we are evaluating this from the perspective of late November 2026, specific meteorological forecasts for this exact date are not available to me, meaning we must rely heavily on historical climate distributions. A threshold >65°F happens on a minority of days in November, typically with a historical frequency well below 20%.
+
+Weighing the rarity of 65°F+ days in late November against typical climate variability in Denver, the probability is relatively low.
+
+PROBABILITY: 0.15"
+KXNFLFFPTS-26NOV29ATLMIN-ATLBROBINSON7-18P1,gemini,gemini-3.5-flash-lite,v1,2026-11-26T23:56:52Z,0.3800,"To evaluate the probability that Bijan Robinson scores over 18.1 fantasy points (assuming standard PPR scoring, which is typical for such markets) in the Atlanta vs. Minnesota game on November 29, 2026:
+
+1. **Player Profile & Usage:** Bijan Robinson is an elite, highly utilized running back for the Atlanta Falcons, heavily involved in both the running and passing games, giving him a high floor and ceiling for fantasy production.
+2. **The Threshold (18.1 points):** An 18.1-point threshold in PPR requires a strong performance—typically around 80–100 scrimmage yards, multiple touchdowns, or a high volume of receptions (e.g., 6+ catches) combined with decent yardage. This is well above average for a typical NFL running back, but entirely within the realm of expectation for a top-tier RB1 like Robinson.
+3. **Matchup:** Minnesota historically presents a competitive defense, but elite offensive weapons like Robinson maintain high usage regardless of opponent. 
+4. **Base Rates for Elite RBs:** Top running backs playing a full starter's snap share clear 18.1 fantasy points in roughly 35% to 45% of their games, depending on the game script and touchdown variance. 
+
+Weighing his high volume against the inherent variance of NFL scoring and touchdown dependency, a reasonable probability for exceeding this specific line is around 38%.
+
+PROBABILITY: 0.38"
+KXNBATOTAL-26NOV27ATLBOS-223,groq,openai/gpt-oss-120b,v1,2026-11-26T23:56:58Z,0.4800,"Both teams typically score near the league average of about 110 points each, giving a combined total around 220.  The Celtics tend to play solid defense while the Hawks play at a slightly faster pace, so the game is expected to hover near the league‑average total.  Recent NBA over/under lines show that a line of 222.5 points is hit just under half the time – roughly 45‑50 % of games.  Accounting for the modest defensive edge of Boston and the slightly higher‑scoring style of Atlanta, a reasonable estimate is just under the midpoint.
+
+PROBABILITY: 0.48"
+KXNFLFFPTS-26NOV29BALHOU-BALMANDREWS89-8,groq,openai/gpt-oss-120b,v1,2026-11-26T23:57:11Z,0.7800,"Mark Andrews is a premier tight end who typically scores well above the 8‑point threshold – his recent seasons average about 13‑15 fantasy points per game in standard PPR scoring. He is durable, has no injury news, and the Ravens usually feature him heavily in the passing game. Houston’s secondary has been mediocre against tight ends, and a late‑November matchup is unlikely to be severely affected by weather. Even a modest outing (e.g., 2 receptions for 20 yards) would push him over 8 points, and a touchdown would do so comfortably. Considering the modest ceiling required and the low chance of a game‑script that sidelines him, the likelihood of a “YES” resolution is fairly high, though not certain (e.g., possible limited snaps or an unexpected defensive focus).  
+
+**PROBABILITY: 0.78**"
+KXLOWTHOU-26NOV27-B38.5,groq,openai/gpt-oss-120b,v1,2026-11-26T23:57:24Z,0.0030,"Houston’s historical November lows average in the mid‑50s °F, with only a handful of sub‑40 °F nights on record in the entire month across many decades. A low in the narrow 38‑39 °F window would require an unusually strong cold snap that rarely reaches that far south, and even when lows dip below 40 °F the chance they land specifically between 38 and 39 °F is small. Combining the low frequency of sub‑40 °F nights with the narrow two‑degree band gives a probability well under 1 %.  
+
+**PROBABILITY: 0.003**"
+KXNBASPREAD-26NOV27DALPHX-PHX3,groq,openai/gpt-oss-120b,v1,2026-11-26T23:57:38Z,0.4600,"Phoenix is playing on the road against Dallas, so the home‑court advantage modestly lowers its chance of a clean win. Assuming the two teams are roughly evenly matched, an away win probability is around 45‑50 %. When Phoenix does win, most NBA victories are by more than 2.5 points (≈ 80‑90 % of wins), so the combined chance of an away win with a margin exceeding 2.5 points is roughly 0.45 × 0.85 ≈ 0.38‑0.48. Accounting for typical variability in roster health and recent form, a reasonable central estimate is about 46 %.
+
+PROBABILITY: 0.46"
+KXBIGGESTQUAKE-27NOV26-7.0,groq,openai/gpt-oss-120b,v1,2026-11-26T23:57:50Z,0.0400,"Most days see no magnitude‑7.0+ earthquake worldwide. Historical USGS data show roughly 15–20 such events per year, giving a daily chance of about 15 ÷ 365 ≈ 0.04 (4 %). There is no known seasonal pattern that would markedly raise the odds for 27 Nov 2026, so the best estimate remains near this baseline.
+
+PROBABILITY: 0.04"
+KXNBATOTAL-26NOV27PHIIND-235,groq,openai/gpt-oss-120b,v1,2026-11-26T23:58:04Z,0.1600,"Both teams are typical NBA offenses that average roughly 110 – 115 points per game, while their defenses allow about 108 points each.  That puts the expected combined total near 222 points.  Historical NBA totals are roughly normally distributed with a standard deviation of about 12 points.  An over‑234.5 result is ~12.5 points above the mean, i.e. a Z‑score of ≈1.0, which gives a ≈15 % chance in regulation.  Adding the ~6 % chance of an overtime period (which shifts the mean upward by ~10 points and raises the tail probability to roughly 27 %) adds a few extra percentage points.  Overall, the chance that the game ends with more than 234.5 points is in the mid‑teens.
+
+PROBABILITY: 0.16"
+KXNCAAMBSPREAD-26NOV27NENW-NW13,groq,openai/gpt-oss-120b,v1,2026-11-26T23:58:17Z,0.7000,"Northwestern, a Big Ten program, typically fields a roster that is considerably deeper and athletically superior to Northeastern, an America East team. In recent seasons, when Big Ten teams face mid‑major opponents, they win the majority of games by double‑digit margins—roughly 65‑75 % of the time—especially when playing at home or on a neutral site that favors the larger school. Assuming Northwestern is not missing key players and the game proceeds without major upsets, a margin of more than 12.5 points is well within the expected range. Accounting for the usual variance in college basketball scores, a reasonable estimate puts the chance of a Northwestern victory by over 12.5 points at about 70 %.
+
+PROBABILITY: 0.70"
+KXNFLREC-26NOV29BALHOU-HOUTDELL1-3,groq,openai/gpt-oss-120b,v1,2026-11-26T23:58:30Z,0.0200,"Tank Dell is a depth wide receiver who, as of the 2026 season, is on the Philadelphia Eagles roster and not slated to play for either Baltimore or Houston. Since he will not be on the active lineup for the Baltimore‑vs‑Houston matchup, the chance that he records any receptions – let alone three – is effectively negligible. Even allowing for a potential mid‑season trade or injury replacement, the odds of him appearing in the game are extremely low, making a 3‑reception total highly unlikely.  
+
+PROBABILITY: 0.02"
+KXLOWTOKC-26NOV27-B25.5,groq,openai/gpt-oss-120b,v1,2026-11-26T23:58:44Z,0.0300,"The historical November average low in Oklahoma City is about 38 °F with a typical spread of roughly 8 °F. Temperatures as low as 25–26 °F are more than 1.5 σ below the mean and occur only on unusually cold nights; such lows are recorded on only a few percent of November days, and the chance of the minimum landing in the narrow 1 °F window is correspondingly low. Accounting for recent warming trends that further suppress extreme cold, a reasonable estimate is around a few‑percent chance.
+
+PROBABILITY: 0.03"
+KXNBATOTAL-26NOV27DENUTA-229,groq,openai/gpt-oss-120b,v1,2026-11-26T23:58:57Z,0.5100,"The NBA’s recent seasons show total scores clustering around the 220‑230‑point range, with a standard deviation of roughly 12‑14 points. Denver and Utah both run moderate‑pace offenses that typically push the combined total a bit above the league average, putting the expected total near 225‑227 points. An over‑228.5 line sits just a few points above that expectation, implying a win‑probability a bit under 50 % if the distribution is symmetric, but the slightly higher offensive output of the two teams nudges it just past the 50 % mark.  
+
+**Estimated probability that the game exceeds 228.5 points:** about 0.51.  
+
+PROBABILITY: 0.51"
+KXNCAAMBSPREAD-26NOV27DRKEBSU-BSU7,groq,openai/gpt-oss-120b,v1,2026-11-26T23:59:10Z,0.3200,"Boise State is generally a stronger program than Drake, but the margin of victory of more than 6.5 points is larger than the typical spread for this matchup. Assuming Boise State is modestly favored (around 3–5 points) and no major injuries or home‑court advantage dramatically shift the odds, the chance that they win by a double‑digit margin is limited. A reasonable estimate puts the probability in the low‑to‑mid‑30% range.
+
+PROBABILITY: 0.32"
+KXRAINMIAM-26NOV-18,groq,openai/gpt-oss-120b,v1,2026-11-26T23:59:23Z,0.0080,"Miami’s November climatology is very dry: the long‑term mean precipitation is about 2–3 inches, and the 95 th percentile is roughly 5–6 inches. Exceeding 18 inches would require an exceptionally rare combination of events, such as a direct hit by a major tropical cyclone or a series of severe thunderstorms delivering extreme rain rates. Even in an active Atlantic hurricane season, the chance of a single storm dropping >10 inches in Miami in November is only a few percent, and the chance that cumulative rain from any storms (or multiple storms) tops 18 inches is far lower. Accounting for climate‑change‑driven increases in storm intensity (perhaps a modest 10–15 % uplift in extreme‑rain probability) still leaves the overall likelihood well under 1 %.  
+
+**Estimated probability:** about 0.8 %.
+
+PROBABILITY: 0.008"
+KXMEASLES-26-7500,groq,openai/gpt-oss-120b,v1,2026-11-26T23:59:36Z,0.1800,"Measles cases in the United States have remained relatively low in recent years, typically ranging from a few dozen to a few hundred annually, even during the larger outbreaks of 2019‑2021. While vaccine hesitancy and international importations have caused occasional spikes, the infrastructure for outbreak response and the overall vaccination coverage keep the total far below the 7,500‑case threshold. Given the modest upward trend but still limited magnitude, the chance that the U.S. will exceed 7,500 cases in 2026 appears low—on the order of a few‑tens of percent.
+
+PROBABILITY: 0.18"
+KXNCAAMBTOTAL-26NOV27CINBC-143,groq,openai/gpt-oss-120b,v1,2026-11-26T23:59:49Z,0.4500,"Both teams are expected to score near the historical college‑basketball average of about 70 points each. Cincinnati’s recent seasons have been a touch above average in offensive efficiency, while Boston College has tended to be slightly below average on both offense and defense. The combined pace of the game is likely to be moderate, putting the expected total near 140 points. Because 142.5 points is just a few points above the overall mean, the chance of the game exceeding that line is modest but not negligible—roughly halfway between the typical “under” and “over” frequencies observed in recent seasons.  
+
+**PROBABILITY: 0.45**"
+KXHIGHTHOU-26NOV27-B64.5,groq,openai/gpt-oss-120b,v1,2026-11-27T00:00:02Z,0.0400,"Houston’s November highs average around 70 °F, with a typical day‑to‑day spread of roughly ±8 °F (standard deviation ≈ 8 °F).  Assuming a roughly normal distribution for daily maximum temperature, the chance that the high falls within the 1‑degree window 64–65 °F is the area between 64.5 °F and 65.5 °F:
+
+- Z for 64.5 °F = (64.5 − 70)/8 ≈ −0.69 → CDF ≈ 0.245  
+- Z for 65.5 °F = (65.5 − 70)/8 ≈ −0.56 → CDF ≈ 0.287  
+
+Probability ≈ 0.287 − 0.245 ≈ 0.042, i.e. about 4 %.  A slight upward temperature trend from climate change makes cooler extremes a bit less likely, so a final estimate near 4 % is reasonable.
+
+**PROBABILITY: 0.04**"
+KXNCAAMBSPREAD-26NOV27MOSUORU-ORU3,groq,openai/gpt-oss-120b,v1,2026-11-27T00:00:16Z,0.3200,"Oral Roberts and Missouri State are both competitive Summit League programs, with Oral Roberts typically a slight favorite in head‑to‑head matchups but often playing on the road in conference games. Recent season trends suggest Oral Roberts wins roughly 55 % of its games, and when it does win it beats opponents by three or more points about 60‑70 % of the time. Accounting for the likely away setting and the modest edge, the overall chance of a margin greater than 2.5 points is around three‑in‑ten.
+
+PROBABILITY: 0.32"
+KXHIGHDEN-26NOV27-T65,groq,openai/gpt-oss-120b,v1,2026-11-27T00:00:28Z,0.0800,"Denver’s historical November highs average in the low‑50 °F range, and days topping 65 °F are uncommon—occurring on roughly 5 % of November days in the long record. A modest warming trend over recent decades could raise that frequency a bit, perhaps to 7–8 % for a single day in late November. Accounting for typical inter‑annual variability and the small upward shift, a reasonable estimate for a >65 °F maximum on 27 Nov 2026 is about an 8 % chance.
+
+PROBABILITY: 0.08"
+KXNFLFFPTS-26NOV29ATLMIN-ATLBROBINSON7-18P1,groq,openai/gpt-oss-120b,v1,2026-11-27T00:00:42Z,0.3500,"Bijan Robinson is now the Falcons’ feature back and typically averages around 15‑18 fantasy points per game. The Vikings’ run defense is about league‑average, while their pass defense is slightly better, meaning Robinson’s production will rely heavily on the ground game and any involvement in the passing attack. In a typical game he gets ~20 carries and 3‑4 receptions; to exceed 18.1 points he would need roughly 80+ rushing yards with a touchdown or a similarly productive mixed‑play performance. Considering his usage, recent consistency, and the moderate difficulty of the matchup, the chance of him surpassing the 18.1‑point threshold is roughly one‑third.  
+
+PROBABILITY: 0.35"
+KXNBATOTAL-26NOV27ATLBOS-223,groq,openai/gpt-oss-20b,v1,2026-11-27T00:00:54Z,0.5300,"The average NBA game in recent years lands around 220–225 total points, with roughly 45–50 % of games exceeding 222.5 points. The Atlanta‑Boston matchup features two teams with competitive offenses and no obvious injuries that would drastically lower scoring, making the odds slightly better than the league average. Accounting for the small edge in both teams’ offensive output and the fact that 222.5 is just below the historic mean, a reasonable estimate for the probability that the game will finish with over 222.5 points is about **53 %**.
+
+PROBABILITY: 0.53"
+KXNFLFFPTS-26NOV29BALHOU-BALMANDREWS89-8,groq,openai/gpt-oss-20b,v1,2026-11-27T00:00:59Z,0.9200,"Mark Andrews is a consistently productive tight‑end for the Ravens, averaging roughly 20–25 fantasy points per game in recent seasons. In a regular‑season matchup against the Texans, the offense typically targets him regularly, and the Texans’ pass defense has been solid but not elite at stopping tight ends. The threshold of 8 fantasy points is quite low – even a single reception for 20 yards or a touchdown would easily push him past it. While there is a small chance of a very quiet game (around 8–10 % of the time), the probability that he exceeds 8 fantasy points is therefore very high.
+
+**PROBABILITY: 0.92**"
+KXLOWTHOU-26NOV27-B38.5,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:04Z,0.0250,"The probability is very low because late‑November lows in Houston are typically in the 50‑60°F range, and temperatures in the 30‑40°F band are uncommon. Historical data for November 27 at CLIHOU rarely drop below 40°F, with only a few cold‑wave events reaching the 30s. Even accounting for rare cold fronts, the chance of the minimum falling strictly between 38‑39°F is only a few percent.
+
+PROBABILITY: 0.025"
+KXNBASPREAD-26NOV27DALPHX-PHX3,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:09Z,0.2100,"The Suns have a slightly stronger roster than the Mavericks, but both teams are competitive and close games are common in the NBA. Historically, roughly 50 % of games are decided by more than 2.5 points for the winning team. Assuming a ~35 % chance that Phoenix wins the matchup (given their marginal roster advantage) and that of those wins about 60 % are by more than 2.5 points, we estimate an overall probability of about 0.35 × 0.60 ≈ 0.21 for the market to resolve YES.  
+
+PROBABILITY: 0.21"
+KXBIGGESTQUAKE-27NOV26-7.0,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:14Z,0.0450,"The global catalog shows roughly 14–15 earthquakes of magnitude 7.0+ per year, which averages to a daily chance of about 0.04 (≈ 4 %). Since the market resolves to “Yes” whenever at least one 7.0+ event occurs on that day, the probability that the largest event on 2026‑11‑27 will reach magnitude 7.0 or higher is therefore on the order of a few percent.  
+
+PROBABILITY: 0.045"
+KXNBATOTAL-26NOV27PHIIND-235,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:19Z,0.0800,"The average combined score in modern NBA games hovers around 215 points, with a standard deviation of roughly 12 points. Both the Philadelphia 76ers and Indiana Pacers usually contribute about 110 and 105 points respectively, giving this matchup an expected total of ~215–220 points. A total exceeding 234.5 points is roughly 1.3–1.6 standard deviations above the mean, which corresponds to about a 5–10 % chance under a normal distribution. Considering the teams’ recent offensive output and no unusual injury or lineup information, a conservative estimate is slightly above the one‑in‑ten mark.
+
+**PROBABILITY: 0.08**"
+KXNCAAMBSPREAD-26NOV27NENW-NW13,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:23Z,0.3000,"Northwestern is a Big Ten program and generally stronger than Northeastern, which is a smaller‑conference school.  The game is scheduled with Northeastern at home, so the margin will likely be narrower than a typical road win for a power‑conference team.  Over‑12.5 points is a sizable gap, so while Northwestern has a decent chance to win outright, the probability of exceeding 12.5 points is moderate rather than high.  Taking into account typical point spreads for such matchups, a reasonable estimate is about a 30 % chance of a 12.5‑point cushion.  
+
+PROBABILITY: 0.30"
+KXNFLREC-26NOV29BALHOU-HOUTDELL1-3,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:28Z,0.6000,"Tank Dell is a professional wide receiver expected to start in the Baltimore‑vs‑Houston game. Starting receivers in the NFL usually catch about 3–4 passes per contest, especially in regular‑season matchups. Given his projected role as a primary target and the lack of any known injury concerns, it is reasonably likely he will record at least three receptions. While there is always uncertainty (e.g., weather, defensive focus, play‑calling variations), the odds favor a 3‑plus reception outcome.  
+
+**PROBABILITY: 0.60**"
+KXLOWTOKC-26NOV27-B25.5,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:34Z,0.0050,"The minimum temperature on Nov 27 in Oklahoma City is normally around 38 °F in November.  The 25–26 °F band lies roughly 12–13 °F below the mean, about 1.8–2.0 σ for a typical November σ of ~6 °F.  In a normal distribution the probability density at that point is on the order of 0.002 per degree, so the chance that the recorded minimum falls in a 1‑degree wide window is well below 1 % (≈0.2–0.5 %).  Thus the market is highly unlikely to resolve to YES.
+
+PROBABILITY: 0.005"
+KXNBATOTAL-26NOV27DENUTA-229,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:38Z,0.5200,"The average total points in an NBA game today hover around 215‑225. The over 228.5 line is a little above the mean, so historically such lines resolve to “Yes” roughly 50‑55 % of the time.  No specific injury or pace anomaly is known for the Denver‑Utah matchup, so we’ll use a mid‑point estimate.  
+
+PROBABILITY: 0.52"
+KXNCAAMBSPREAD-26NOV27DRKEBSU-BSU7,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:43Z,0.5500,"Boise State is a Power Five program and Drake is a mid‑major; historically the former tends to win by double digits in conference play. The 6.5‑point spread is modest, so the win probability should be moderately high but not certain. Based on typical strength differentials and assuming no major injuries or upsets, a reasonable estimate is that Boise State will win by more than 6.5 points in about 55 % of such matchups.  
+
+PROBABILITY: 0.55"
+KXRAINMIAM-26NOV-18,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:47Z,0.0050,"The November rainfall total for Miami is typically only 4–5 inches, and even during notable storms it rarely exceeds 10 inches. An 18‑inch total would require an extraordinary series of tropical systems in a month that normally sees very little activity. Historically, no November in the past 30 years has come close to this threshold. Thus the chance of surpassing 18 inches is very small, perhaps on the order of a few tenths of a percent. 
+
+PROBABILITY: 0.005"
+KXMEASLES-26-7500,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:52Z,0.9900,"The threshold of 7,500 cases is well below the global average measles incidence. In recent years the WHO reports have consistently shown worldwide measles cases in the tens of thousands annually, and even with vaccination improvements and temporary declines due to COVID‑19 restrictions, it is highly unlikely that measles would fall to less than 7,500 cases in a full calendar year. Therefore the probability that the 2026 resolution exceeds 7,500 cases is essentially certain.
+
+PROBABILITY: 0.99"
+KXNCAAMBTOTAL-26NOV27CINBC-143,groq,openai/gpt-oss-20b,v1,2026-11-27T00:01:57Z,0.4100,"The combined score of a college‑basketball game between Cincinnati and Boston College is typically around 140 points (≈70 per team). The 142.5‑point threshold is only modestly above average. Using a normal approximation with mean 140 and standard deviation ≈10 gives P(>142.5) ≈ 0.40. Adjusting for the fact both teams are neither extreme scorers nor defensive stalwarts, the realistic odds are about 41%.
+
+PROBABILITY: 0.41"
+KXHIGHTHOU-26NOV27-B64.5,groq,openai/gpt-oss-20b,v1,2026-11-27T00:02:02Z,0.0700,"The market hinges on a very narrow temperature band (64–65 °F) for a single day in Houston. Historical climatology shows that November highs in Houston average around 70 °F with a standard deviation of roughly 5–6 °F. A 1 °F interval at 64–65 °F lies about 1.3–1.5 standard deviations below the mean, corresponding to a tail probability of roughly 3–4 % for a normal approximation. However, weather forecasts for late November in Houston often predict cooler days, slightly raising the chance into the 5–8 % range. Given the narrow band and the lack of a strong forecast signal, a realistic estimate is a low single‑digit probability.
+
+PROBABILITY: 0.07"
+KXNCAAMBSPREAD-26NOV27MOSUORU-ORU3,groq,openai/gpt-oss-20b,v1,2026-11-27T00:02:07Z,0.4000,"The game is a relatively evenly matched conference contest, so while Oral Roberts has a reasonable chance to win, the likelihood that they win by a comfortable margin of more than 2.5 points is somewhat less than the straight win probability.  Based on typical margins in similar matchups and the uncertainty in roster changes for a game scheduled a year away, a prudent estimate is roughly a 40 % chance of the market resolving YES.
+
+PROBABILITY: 0.40"
+KXHIGHDEN-26NOV27-T65,groq,openai/gpt-oss-20b,v1,2026-11-27T00:02:11Z,0.1800,"The November 27 high in Denver typically centers around the mid‑50s°F. Historically, temperatures exceeding 65°F on any given November day occur roughly 15‑20 % of the time, with 70°F or higher being less frequent. Given the normal distribution of daily highs and the lack of any extraordinary long‑term trend indicating a systematic warming spike for that date, the probability that the maximum temperature recorded at Denver (CLIDEN) on 2026‑11‑27 will surpass 65°F is best estimated at about 18 %.
+
+PROBABILITY: 0.18"
+KXNFLFFPTS-26NOV29ATLMIN-ATLBROBINSON7-18P1,groq,openai/gpt-oss-20b,v1,2026-11-27T00:02:17Z,0.2600,"Bijan Robinson is the Falcons’ primary running back and is expected to get a majority of the carries in a 2026 matchup with a mid‑tier defense.  However, the Falcons offense is projected to be below the league average, and Minnesota’s run defense is solid, which limits RB upside.  Given his typical output of about 18–20 fantasy points in 2022–2023, the chance that he will exceed 18.1 points in a single game against the Vikings is modest—roughly in the low‑thirties in a probabilistic sense.  
+
+PROBABILITY: 0.26"
+KXNBATOTAL-26NOV27ATLBOS-223,groq,qwen/qwen3.8-27b,v1,2026-11-27T00:02:25Z,0.4800," style in the past), the average might be 218. In that case, P(Total > 222.5) would be less than 0.5.
+
+Recent trends favor higher scoring (pace is up). However, the Hawks were a poor offense. Let's assume the line is set fairly. Typically, the Over wins about 48-52% of the time depending on the variance. Given the specificity of ""Over 222.5"" against a modern NBA game, and assuming standard variance, it is a near-coin flip.
+
+If we assume the 2026 teams resemble their 2025 capabilities:
+*   Celtics: High efficient, mid-pace.
+*   Hawks: Low efficient, low-pace potential vs good D.
+The projected total might be closer to 215-218. If the projected total is 218, and the line is 222.5, the Over is unlikely (<0.4).
+If the projected total is 225, the Over is likely (0.55).
+
+Given the Celtics' defensive prowess and the Hawks' offensive struggles in the recent past, the ""Under"" is often the favored side in these specific matchups in the recent NBA era. The line of 222.5 is actually quite high for a Hawks-Celtics game if the Celtics are good on D. In 2024, the Celtics held opponents to ~110. If they hold Atlanta to 108, and Atlanta scores 110, the total is 218.
+218 < 222.5.
+
+Therefore, the probability of the Over is likely **below 50%**.
+
+Estimate: 0.45 to 0.55. Lean towards Unders due to defensive matchup predictions often stored in such lines. Let's split the difference but lean slightly under due to the ""slow pace"" tendency of Celtics/Hawks series.
+
+Probability: 0.48
+
+PROBABILITY: 0.48"
+KXNFLFFPTS-26NOV29BALHOU-BALMANDREWS89-8,groq,qwen/qwen3.8-27b,v1,2026-11-27T00:02:57Z,0.3000,"*Synthesis:**
+    *   Base rate for a starting TE to score >8 points: ~25-30%.
+    *   Andrews' consistency: He is elite, but not the highest-volume TE (like Cole Kmet or Travis Kelce in their peaks).
+    *   Defensive matchup: Average.
+    *   Therefore, the probability is likely slightly below the average elite TE baseline, or right at it. A reasonable estimate for a specific TE hitting >8 points in a random game is around 20-25%. Given Andrews' dual-threat (receiving + special teams occasionally + red zone usage), we might nudge this up slightly, but 8 points is still a ""high end"" outcome, not a ""baseline"" outcome.
+
+    Let's refine:
+    *   0-4 points: ~40%
+    *   5-7 points: ~30%
+    *   8-12 points: ~20%
+    *   13+ points: ~10%
+
+    This distribution sums to 100%. The bucket for >8 points covers the 8-12 and 13+ ranges. This suggests a probability of roughly 30%. However, many weeks he falls short. Let's look at 2022 data: He had 4 games > 10 pts, 2 games > 8 pts.
+    Let's look at 2023: He had 1 game > 10 pts, 0 games strictly > 8 but < 10? Actually, 8.2 is >8. He had games with 9, 10, 12 points.
+    If we assume a healthy Andrews, his ""floor"" is low (3-5 pts) and his ""ceiling"" is high.
+    In prediction markets, a line of >8 for a TE usually prices in around 25-35%.
+
+    Considering the variance and that he is not the *most* targeted TE in the league consistently (he shares targets with Hill/Edwards likely), I will estimate the probability at 30%.
+
+PROBABILITY: 0.30"
+KXNBASPREAD-26NOV27DALPHX-PHX3,groq,qwen/qwen3.8-27b,v1,2026-11-27T00:04:11Z,0.3400,"it differently. The ""Win by > 2.5"" market is essentially asking for a comfortable victory. In a close NBA game, ""comfortable"" is the minority outcome compared to ""close"".
+    However, compared to the entire sample space (all possible outcomes including D-Fa wins), the slice for ""Phoenix comfortable win"" is typically in the 30-40% range for a moderate favorite.
+
+    Let's estimate:
+    P(Phoenix Wins) = 0.55
+    P(Win by 1 or 2 | Win) = 0.35
+    P(Win by 3+ | Win) = 0.65
+    P(Yes) = 0.55 * 0.65 = 0.3575.
+
+    If Phoenix is on the road:
+    P(Phoenix Wins) = 0.45
+    P(Win by 3+ | Win) = 0.60 (Away teams who win close games often lose by close margins if they don't blow out, but conditional on winning, the distribution is similar).
+    P(Yes) = 0.45 * 0.60 = 0.27.
+
+    The notation ""Dallas vs Phoenix"" typically denotes Phoenix as the home team in many contexts (or it's just a generic label). Assuming home context is standard for lower-ranked teams vs peers in these market descriptions, or simply taking the geometric mean of likely scenarios, the probability hovers around 33-35%.
+
+    Let's adjust for the specific ""2.5"" cutoff. This is the midpoint of the 1-3 point bracket. It effectively excludes the ""One and Two"" point wins. These are very common in NBA.
+    If I bet on a team to win by 3+, I am betting against the ""close"" nature of the game.
+    For a 55% favorite, the probability of winning by 3+ points is approximately 32-36%.
+
+    I will settle on 0.34.
+
+PROBABILITY: 0.34"
+KXNBATOTAL-26NOV27DENUTA-229,groq,qwen/qwen3.8-27b,v1,2026-11-27T00:08:40Z,0.4500,"scenarios. An ""Over 228.5"" line is generally considered a ""value"" long shot in the off-season, but by November 2026, we have 2-3 weeks of data. If the teams are performing at league average or better, the line would likely be lower (220-224). The fact that the line is 228.5 suggests the market expects a blowout or a shootout.
+    
+    Statistically, P(Points > 228.5) for an *average* NBA game is low (~30%). For a *specific* high-score game (like Den @ Ut), the probability increases. Let's estimate the true mean of this game at 226.0 points.
+    Standard deviation $\sigma \approx 17$.
+    $Z = (228.5 - 226.0) / 17 = 0.147$.
+    $P(X > \mu + 0.147\sigma) \approx 0.44$.
+    
+    Considering market efficiency and the vig (usually 4-5% on the over side when odds are short, but here it's a higher total so odds might be longer), the implied probability is likely hovering around 45-48%. However, high-total lines often have lower hit rates because the ""vig"" is baked in, and the high threshold is difficult to clear.
+    
+    Let's refine: Denver is an elite offense. Utah is a poor defense. This combination is one of the most reliable ""Over"" profiles. The line 228.5 reflects this high expectation. Often, lines in this range for high-volatility matchups resolve Over roughly 40-45% of the time. It is not a coin flip because 228.5 is a large number. But it is not a huge underdog because the matchup favors high scoring.
+
+    I will estimate the probability at roughly 45%.
+
+PROBABILITY: 0.45"
+KXMEASLES-26-7500,groq,qwen/qwen3.8-27b,v1,2026-11-27T00:10:52Z,0.9800,"a few thousand cases in outbreak years (e.g., 191 cases in 2024, but higher in recent ""outbreak"" years like 2018 with >1,400 cases). However, globally, the number is far higher.
+    *   Even if we consider only *confirmed* cases from major health organizations (WHO/CDC), the global total for *any* single year in the last decade has consistently exceeded 7,500. In 2024 alone, global suspected cases were in the tens of thousands.
+    *   It is highly improbable that global measles cases would drop below 7,500 in a given year in the post-vaccine era, especially given the recent resurgence of measles in several G20 nations and the ongoing outbreaks in Africa and Asia.
+    *   For the market to resolve NO, the global case count for the entire year of 2026 would need to be 7,500 or fewer. Given that major countries alone (like the US, UK, or France) can report hundreds to thousands of cases during an outbreak year, and poorer nations with higher transmission often have under-reporting issues (meaning the *true* number is higher than reported, but the *reported* number still adds up), the cumulative global count is almost certain to clear this modest threshold.
+    *   Even in ""average"" low-incidence years, global reported cases hover well above 10,000–20,000.
+
+3.  **Conclusion:**
+    The threshold of 7,500 is extremely low in the context of global surveillance data. It is statistically near-certain that the cumulative global case count for 2026 will exceed 7,500.
+
+PROBABILITY: 0.98"
+KXHIGHTHOU-26NOV27-B64.5,groq,qwen/qwen3.8-27b,v1,2026-11-27T00:12:06Z,0.0500,"x 0.023$ per °F? No, that's the height.
+$P(64 < T < 65) = \int_{64}^{65} \frac{1}{6\sqrt{2\pi}} e^{-\frac{(x-67.5)^2}{72}} dx$.
+Let $Z = (x-67.5)/6$.
+Limits: $(64-67.5)/6 = -0.58$ to $(65-67.5)/6 = -0.42$.
+$\Phi(-0.42) - \Phi(-0.58)$.
+$\Phi(-0.42) \approx 0.337$.
+$\Phi(-0.58) \approx 0.281$.
+Difference $\approx 0.056$ or 5.6%.
+
+If the mean is lower, say 65°F:
+Limits: $(64-65)/6 = -0.16$ to $(65-65)/6 = 0$.
+$\Phi(0) - \Phi(-0.16) = 0.5 - 0.436 = 0.064$ or 6.4%.
+
+If the mean is higher, say 70°F:
+Limits: $(64-70)/6 = -1.0$ to $(65-70)/6 = -0.83$.
+$\Phi(-0.83) - \Phi(-1.0) = 0.203 - 0.159 = 0.044$ or 4.4%.
+
+Given that ""The Weather Company"" might have a specific forecast, but we are treated as an estimator using general knowledge, a value around 5-6% is reasonable for a 1-degree bin slightly below the climatological average. Prediction markets for specific 1-degree temperature bins usually resolve near their climatological probability density unless a strong forecast signal exists a few days out. Since the date is in the future (relative to typical training data cutoffs, though the prompt says ""Today is 2026""), we assume standard climatological likelihood.
+
+A 1°F bin is quite specific. The total probability mass for highs in the 60s is probably 60-70%. Spread over 10 degrees, average is 6-7%. The 64-65 range is slightly cooler than the average high but within the central tendency of the distribution for fall.
+
+I will estimate the probability at approximately 5%.
+
+PROBABILITY: 0.05"
